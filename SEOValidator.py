@@ -10,10 +10,10 @@ class SEOValidator:
     def __init__(self):
         self.file = 'options.json'
         self.options = {}
-        self.loadDict()
+        self.loadOptions()
         self.loop = 0
-
-    def loadDict(self):
+      
+    def loadOptions(self):
         try:
             with open(self.file, 'r') as f:
                 s = f.read()
@@ -23,12 +23,15 @@ class SEOValidator:
             return
 
     def seoAnalysis(self, charClass, charSpec):
+    
+        # Retrieves all guides that it should analyze
         guideTypes = self.options['guidesTypes']
         guides = guideTypes.split(',')
         
         result = ''
         issues = []
         
+        # For each guide, call its own analysis method 
         for guide in guides:
             analysis = getattr(self, 'seoGuideAnalysis_'+guide)
             res, iss = analysis(charClass, charSpec)
@@ -43,13 +46,23 @@ class SEOValidator:
         
         issues = []
         
+        # Fetch the guide from Wowhead
         title, content = self.dataFetch(charClass, charSpec, 'guide')
         
+        # Verifies if it was found
+        if title is None:
+            return 'x', issues.append('{0} {1} Overview Guide wasn\'t found.'.format(charClass, charSpec)
+        
+        # Checks if the Guide title is well formatted
         expectedTitle = '{0} {1} Guide – {2} {3}' .format(charSpec, charClass, expansion, patch)
         
         if title != expectedTitle:
             issues.append('{0} {1} Overview Title has the wrong format. <{2}> instead of <{3}> '.format(charClass, charSpec, title, expectedTitle))
+            
+        # Checks if the body has the expected attributes
         
+        
+        # Returns ['ok',None] if there are no issues, or ['x',issues[]] if there are issues
         if not issues:
             return 'ok', issues
         else:
@@ -92,10 +105,13 @@ class SEOValidator:
             
             lines = text.split('\n')
             
+            # Finds the title in the text
             title = lines[0].replace(' - Guides - Wowhead','')
+            
+            # Finds the Context - It is the line after "ReportLinks"
             content = ''
             nextIsContent = False
-            
+                                    
             for line in lines:
                 if nextIsContent:
                     content = line
