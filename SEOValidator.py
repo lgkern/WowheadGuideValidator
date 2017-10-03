@@ -5,6 +5,7 @@ from urllib.request import Request, urlopen
 from urllib.error import URLError
 import json
 
+
 class SEOValidator:    
 
     def __init__(self):
@@ -31,9 +32,9 @@ class SEOValidator:
         result = ''
         issues = []
         
-        # For each guide, call its own analysis method 
+        # For each guide, call its own analysis method
         for guide in guides:
-            analysis = getattr(self, 'seoGuideAnalysis_'+guide)
+            analysis = getattr(self, 'seoGuideAnalysis_' + guide.replace('-','_') )
             res, iss = analysis(charClass, charSpec)
             result += res + ','
             issues += iss
@@ -47,34 +48,168 @@ class SEOValidator:
         issues = []
         
         # Fetch the guide from Wowhead
-        title, content = self.dataFetch(charClass, charSpec, 'guide')
+        title, content = self.dataFetch(charClass, charSpec, 'Guide')
         
         # Verifies if it was found
         if title is None:
-            return 'x', issues.append('{0} {1} Overview Guide wasn\'t found.'.format(charClass, charSpec)
+            return 'x', ['{0} {1} Overview Guide wasn\'t found.'.format(charClass, charSpec)]
         
         # Checks if the Guide title is well formatted
-        expectedTitle = '{0} {1} Guide – {2} {3}' .format(charSpec, charClass, expansion, patch)
+        expectedTitle = '{0} {1} Guide – {2} {3}'.format(charSpec, charClass, expansion, patch)
         
         if title != expectedTitle:
             issues.append('{0} {1} Overview Title has the wrong format. <{2}> instead of <{3}> '.format(charClass, charSpec, title, expectedTitle))
             
-        # Checks if the body has the expected attributes
+        # Checks the usage of aliases
+        issues += self.aliasesEvaluation(charClass, charSpec, 'Overview Guide', content)
         
-        
+        # Checks if the body is using expressions as often as it should
+        guideFormat = '{0} {1} guide'
+        issues += self.expressionEvaluation(charClass, charSpec, content, guideFormat, 'Overview Guide', 3 )
+            
         # Returns ['ok',None] if there are no issues, or ['x',issues[]] if there are issues
         if not issues:
             return 'ok', issues
         else:
             return 'x', issues
+            
+    def seoGuideAnalysis_talent_guide(self, charClass, charSpec):
+        expansion = self.options['expansion']
+        patch = self.options['patch']
+        
+        issues = []
+        
+        # Fetch the guide from Wowhead
+        title, content = self.dataFetch(charClass, charSpec, 'Talent Guide')
+        
+        content = content.lower()
+        
+        # Verifies if it was found
+        if title is None:
+            return 'x', ['{0} {1} Talent Guide wasn\'t found.'.format(charClass, charSpec)]
+        
+        # Checks if the Guide title is well formatted
+        expectedTitle = '{0} {1} Talents & Build Guide – {2} {3}'.format(charSpec, charClass, expansion, patch)
+        
+        if title != expectedTitle:
+            issues.append('{0} {1} Talent Title has the wrong format. <{2}> instead of <{3}> '.format(charClass, charSpec, title, expectedTitle))
+            
+        # Checks the usage of aliases
+        issues += self.aliasesEvaluation(charClass, charSpec, 'Talent Guide', content)
+        
+        # Checks if the body is using expressions as often as it should
+        guideFormat = '{0} {1} talents'
+        issues += self.expressionEvaluation(charClass, charSpec, content, guideFormat, 'Talent Guide', 2 )
+        guideFormat = '{0} {1} build'
+        issues += self.expressionEvaluation(charClass, charSpec, content, guideFormat, 'Talent Guide', 2 )
+            
+        # Returns ['ok',None] if there are no issues, or ['x',issues[]] if there are issues
+        if not issues:
+            return 'ok', issues
+        else:
+            return 'x', issues
+            
+    def expressionEvaluation(self, charClass, charSpec, content, guideFormat, guide, expectedCount):
+        classAliases = []
+        specAliases = []
+        issues = []
+        
+        # Adds all aliases to the list, if there are any
+        if charSpec in self.options['validations']:
+            specAliases += self.options['validations'][charSpec].keys()
+            
+        # Otherwise, adds only the spec to it
+        else:
+            specAliases.append(charSpec)
+            
+        # Adds all aliases to the list, if there are any    
+        if charClass in self.options['validations']:
+            classAliases += self.options['validations'][charClass].keys()
+            
+        # Otherwise, adds only the spec to it
+        else:
+            classAliases.append(charClass)
+        
+        
+        # Build all terms based on aliases and count how many times they show up
+        terms = []
+        
+        for classAlias in classAliases:
+            for specAlias in specAliases:
+                terms.append( guideFormat.format( specAlias, classAlias ).lower() )
+                
+        occurenceCount = 0
+        
+        for term in terms:
+            occurenceCount += content.lower().count(term)
+        
+        # If the body doesn't contain enough occurences, add issue
+        if occurenceCount < expectedCount:
+            issues.append('{0} {1} {2} needs more expressions <{3}>. Found {4} instead of {5} '.format(charClass, charSpec, guide, terms[0], occurenceCount, expectedCount))
+        
+        return issues
+            
+    def aliasesEvaluation(self, charClass, charSpec, guide, content):
+        
+        issues = []
+        
+        # Checks if either spec or class has an alias
+        
+        if charClass in self.options['validations']:
+            issues += self.termFrequencyEvaluation(charClass, content, '{0} {1} {2}'.format(charSpec, charClass, guide))
+
+        if charSpec in self.options['validations']:
+            issues += self.termFrequencyEvaluation(charSpec, content, '{0} {1} {2}'.format(charSpec, charClass, guide))
+        
+        return issues
+        
+    
+    def termFrequencyEvaluation(self, term, content, context):    
+        issues = []
+        
+        validations = self.options['validations'][term]                        
+        totalWeight = sum(validations.values())
+        aliases = validations.keys()
+        
+        content = content.lower()
+        
+        # Count the occurence of each term
+        termsCount = []
+        for alias in aliases:
+            lowAlias = alias.lower()
+            termsCount.append([alias, content.count(' {0} '.format(lowAlias))])                
+        
+        # Total sum of occurences
+        termsSum = sum([x[1] for x in termsCount])
+        
+        for key, value in validations.items():
+            
+            # Checks if key shows up at least twice
+            if content.count(' {0} '.format(key.lower())) < 2:
+                issues.append('{0} doesn\'t show up 2 times on {1}'.format(key, context) )
+                
+            # If the ratio of a given term is 50% or higher checks its frequency
+            if ( 1.0 * value ) / totalWeight >= 0.5:
+                dic = dict(termsCount)
+                ratio = ( 1.0 * dic[key] ) / termsSum
+                
+                # Gives a the ratio a lee way
+                precision = self.options['precision']
+                
+                # If ratio found is too far from the ratio expected
+                if ratio < ( 1 - precision ) * ( ( 1.0 * value ) / totalWeight ):
+                    issues.append('{0} doesn\'t show as often as it should on {1} - Only {2} appearances in {3} aliases'.format(key, context, dic[key],termsSum) )
+                    
+        return issues
         
     def dataFetch(self, charClass, charSpec, guide):
         print('>Fetching {1} {0} {2}'.format(charClass, charSpec, guide))
         
         charClass = '-'.join(charClass.lower().split(' '))
         charSpec = '-'.join(charSpec.lower().split(' '))
-        url = 'https://www.wowhead.com/{1}-{0}-{2}'.format(charClass, charSpec, guide)
-                
+        guide = '-'.join(guide.lower().split(' '))
+        url = 'https://www.wowhead.com/{1}-{0}-{2}'.format(charClass, charSpec, guide)               
+        
         req = Request(url)
         try:
             response = urlopen(req)
@@ -114,10 +249,11 @@ class SEOValidator:
                                     
             for line in lines:
                 if nextIsContent:
-                    content = line
-                    break
+                    content += line
                 if 'ReportLinks' in line:
                     nextIsContent = True
+                if 'Share your comments about ' in line:
+                    break
                     
             return title, content
             
@@ -125,7 +261,8 @@ class SEOValidator:
         combos = []
         combos.append(['Blood', 'Death Knight'])
         combos.append(['Frost', 'Death Knight'])
-        combos.append(['Unholy', 'Death Knight'])
+        #return combos
+        combos.append(['Unholy', 'Death Knight'])        
         combos.append(['Havoc', 'Demon Hunter'])
         combos.append(['Vengeance', 'Demon Hunter'])
         combos.append(['Balance', 'Druid'])
@@ -133,7 +270,7 @@ class SEOValidator:
         combos.append(['Feral', 'Druid'])
         combos.append(['Restoration', 'Druid'])
         combos.append(['Beast Mastery', 'Hunter'])
-        combos.append(['Masrksmanship', 'Hunter'])
+        combos.append(['Marksmanship', 'Hunter'])
         combos.append(['Survival', 'Hunter'])
         combos.append(['Arcane', 'Mage'])
         combos.append(['Fire', 'Mage'])

@@ -1,7 +1,7 @@
 {
     "expansion":"Legion",
     "patch":"7.3",
-    "artifacts":[{
+    "artifacts":{
                       "blood-death-knight" :  "Maw of the Damned"
                     , "frost-death-knight" : "Blades of the Fallen Prince"
                     , "unholy-death-knight" : "Apocalypse"
@@ -38,7 +38,32 @@
                     , "arms-warrior" : "Strom'kar, the Warbreaker"
                     , "fury-warrior" : "Warswords of the Valarjar"
                     , "protection-warrior" : "Scale of the Earth-Warder"
-                }],          
-    "guidesTypes":"guide",
-    "otherGuide":",talent-guide,rotation-guide,artifact-guide,gear-guide,stat-guide,enhancements-guide,macros-guide,leveling-guide"
+                },          
+    "validations":{
+        "Death Knight":{
+           "DK":3,
+           "Death Knight":1},
+        "Restoration":{
+           "Restoration":1,
+           "Resto":1},
+        "Marksmanship":{
+           "Marksmanship":1,
+           "MM":2,
+           "Marksman":3},
+        "Beast Mastery":{
+           "Beast Mastery":2,
+           "BM":1},
+        "Retribution":{
+           "Retribution":1,
+           "Ret":2},                       
+        "Discipline":{
+           "Discipline":1,
+           "Disc":1},
+        "Protection":{
+           "Protection":1,
+           "Prot":1}
+                  },
+    "precision":0.1,
+    "guidesTypes":"guide,talent-guide",
+    "otherGuide":",rotation-guide,artifact-guide,gear-guide,stat-guide,enhancements-guide,macros-guide,leveling-guide"
 }
