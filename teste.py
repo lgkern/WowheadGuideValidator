@@ -7,7 +7,7 @@ from SEOValidator import SEOValidator
          
 validator = SEOValidator()
 
-results = 'Spec,Overview,Talents,Rotation,Artifact,Gear,Stat,Enhancements,Macros,Leveling'
+results = 'Spec,Overview,Talents,Rotation,Artifact,Gear,Stat,Enhancements,Macros,Leveling\n'
 issues = []
 
 #title, content = validator.dataFetch('Blood', 'Death Knight', 'Guide')

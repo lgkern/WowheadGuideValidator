@@ -12,7 +12,7 @@
                     , "feral-druid" : "Fangs of Ashamane"
                     , "restoration-druid" : "G'Hanir, the Mother Tree"
                     , "beast-mastery-hunter" : "Titanstrike"
-                    , "markmanship-hunter" : "Thas'dorah"
+                    , "marksmanship-hunter" : "Thas'dorah"
                     , "survival-hunter" : "Talonclaw"
                     , "arcane-mage" : "Aluneth, Great Staff of the Magna"
                     , "fire-mage" : "Felo'melorn"
@@ -64,6 +64,6 @@
            "Prot":1}
                   },
     "precision":0.1,
-    "guidesTypes":"guide,talent-guide",
-    "otherGuide":",rotation-guide,artifact-guide,gear-guide,stat-guide,enhancements-guide,macros-guide,leveling-guide"
+    "guidesTypes":"guide,talent-guide,rotation-guide,artifact-guide,gear-guide,stat-guide,enhancements-guide,macro-guide",
+    "otherGuide":"leveling-guide"
 }

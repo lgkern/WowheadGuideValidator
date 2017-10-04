@@ -1,69 +1,144 @@
-Death Knight Blood,x,x,
-Death Knight Frost,x,x,
-Death Knight Unholy,x,x,
-Demon Hunter Havoc,x,x,
-Demon Hunter Vengeance,x,x,
-Druid Balance,x,x,
-Druid Guardian,x,x,
-Druid Feral,x,x,
-Druid Restoration,x,x,
-Hunter Beast Mastery,x,x,
-Hunter Marksmanship,x,x,
-Hunter Survival,x,x,
-Mage Arcane,x,x,
-Mage Fire,x,x,
-Mage Frost,x,x,
-Monk Brewmaster,x,x,
-Monk Mistweaver,x,x,
-Monk Windwalker,x,x,
-Paladin Holy,x,x,
-Paladin Protection,x,x,
-Paladin Retribution,x,x,
-Priest Discipline,x,x,
-Priest Holy,x,x,
-Priest Shadow,x,x,
-Rogue Assassination,x,x,
-Rogue Outlaw,x,x,
-Rogue Subtlety,x,x,
-Shaman Elemental,x,x,
-Shaman Enhancement,x,x,
-Shaman Restoration,x,x,
-Warlock Affliction,x,x,
-Warlock Destruction,x,x,
-Warlock Demonology,x,x,
-Warrior Arms,x,x,
-Warrior Fury,x,x,
-Warrior Protection,x,x,
+Spec,Overview,Talents,Rotation,Artifact,Gear,Stat,Enhancements,Macros,Leveling
+Death Knight Blood,3,4,4,4,6,x,5,4,
+Death Knight Frost,4,5,4,4,7,x,5,4,
+Death Knight Unholy,4,5,4,4,7,x,5,4,
+Demon Hunter Havoc,2,3,2,2,5,x,3,x,
+Demon Hunter Vengeance,2,3,2,2,5,x,3,x,
+Druid Balance,2,3,2,2,5,x,3,2,
+Druid Guardian,2,3,2,2,6,x,3,2,
+Druid Feral,2,3,2,2,6,x,3,2,
+Druid Restoration,4,5,4,4,7,x,5,4,
+Hunter Beast Mastery,3,4,4,3,6,x,5,4,
+Hunter Marksmanship,5,6,5,5,7,x,5,6,
+Hunter Survival,2,3,2,2,5,x,3,2,
+Mage Arcane,2,3,2,2,5,x,3,2,
+Mage Fire,2,3,2,2,5,x,3,2,
+Mage Frost,2,3,2,2,5,x,3,2,
+Monk Brewmaster,2,3,2,2,5,x,3,2,
+Monk Mistweaver,2,3,2,2,5,x,3,2,
+Monk Windwalker,2,3,2,2,6,x,3,2,
+Paladin Holy,2,3,2,2,5,x,3,2,
+Paladin Protection,4,5,4,5,8,x,6,4,
+Paladin Retribution,4,6,5,5,7,x,5,5,
+Priest Discipline,4,5,3,4,6,x,6,4,
+Priest Holy,2,3,2,2,6,x,3,2,
+Priest Shadow,2,3,2,2,5,x,3,2,
+Rogue Assassination,2,3,2,2,5,x,3,2,
+Rogue Outlaw,2,3,2,2,5,x,3,2,
+Rogue Subtlety,2,3,2,2,5,x,3,2,
+Shaman Elemental,2,3,2,2,6,x,3,2,
+Shaman Enhancement,2,3,2,2,5,x,3,2,
+Shaman Restoration,3,4,3,5,6,x,5,4,
+Warlock Affliction,2,3,2,2,6,x,3,2,
+Warlock Destruction,2,3,2,2,5,x,3,2,
+Warlock Demonology,2,3,2,2,6,x,3,2,
+Warrior Arms,2,3,2,2,6,x,3,2,
+Warrior Fury,2,3,2,2,6,x,3,2,
+Warrior Protection,4,6,4,4,7,x,5,5,
 
 DK doesn't show up 2 times on Blood Death Knight Overview Guide
 DK doesn't show as often as it should on Blood Death Knight Overview Guide - Only 0 appearances in 6 aliases
-Death Knight Blood Overview Guide needs more expressions <blood death knight guide>. Found 1 instead of 3 
+Death Knight Blood Overview Guide needs more expressions <blood dk guide>. Found 1 instead of 3 
 DK doesn't show up 2 times on Blood Death Knight Talent Guide
 DK doesn't show as often as it should on Blood Death Knight Talent Guide - Only 0 appearances in 3 aliases
-Death Knight Blood Talent Guide needs more expressions <blood death knight talents>. Found 0 instead of 2 
-Death Knight Blood Talent Guide needs more expressions <blood death knight build>. Found 0 instead of 2 
+Death Knight Blood Talent Guide needs more expressions <blood dk talents>. Found 0 instead of 2 
+Death Knight Blood Talent Guide needs more expressions <blood dk build>. Found 0 instead of 2 
+Death Knight Blood Rotation Title has the wrong format. <Blood Death Knight Rotation and Priorities> instead of <Blood Death Knight Rotation – Legion 7.3> 
+DK doesn't show up 2 times on Blood Death Knight Rotation Guide
+DK doesn't show as often as it should on Blood Death Knight Rotation Guide - Only 0 appearances in 7 aliases
+Death Knight Blood Rotation Guide needs more expressions <blood dk rotation>. Found 0 instead of 4 
+Death Knight Blood Rotation Title has the wrong format. <Blood Death Knight Artifact: Netherlight Crucible, Traits, Relics> instead of <Blood Death Knight Artifact Weapon: Maw of the Damned – Legion 7.3> 
+DK doesn't show up 2 times on Blood Death Knight Artifact Guide
+DK doesn't show as often as it should on Blood Death Knight Artifact Guide - Only 0 appearances in 6 aliases
+Death Knight Blood Artifact Guide needs more expressions <blood dk artifact>. Found 0 instead of 3 
+Death Knight Blood Gear Title has the wrong format. <Blood Death Knight Gear Recommendations> instead of <Blood Death Knight Gear, Tier Sets & BiS  – Legion 7.3> 
+DK doesn't show up 2 times on Blood Death Knight Gear Guide
+DK doesn't show as often as it should on Blood Death Knight Gear Guide - Only 0 appearances in 11 aliases
+Death Knight Blood Gear Guide needs more expressions <tier sets>. Found 0 instead of 3 
+Death Knight Blood Gear Guide needs more expressions <blood dk gear>. Found 0 instead of 1 
+Death Knight Blood Gear Guide needs more expressions <blood dk tier sets>. Found 0 instead of 1 
+Death Knight Blood Stat Guide wasn't found.
+Death Knight Blood Enhancements Title has the wrong format. <Blood Death Knight Gems, Enchants and Consumables> instead of <Blood Death Knight Enchants, Gems & Enhancements – Legion 7.3> 
+DK doesn't show up 2 times on Blood Death Knight Enhancements Guide
+DK doesn't show as often as it should on Blood Death Knight Enhancements Guide - Only 1 appearances in 7 aliases
+Death Knight Blood Enhancements Guide needs more expressions <blood dk enchants>. Found 0 instead of 2 
+Death Knight Blood Enhancements Guide needs more expressions <blood dk gems>. Found 0 instead of 2 
+Death Knight Blood Macro Title has the wrong format. <Blood Death Knight Macros, Addons, and WeakAuras> instead of <Blood Death Knight Macros & Addons – Legion 7.3> 
+DK doesn't show up 2 times on Blood Death Knight Macro Guide
+DK doesn't show as often as it should on Blood Death Knight Macro Guide - Only 0 appearances in 7 aliases
+Death Knight Blood Macro Guide needs more expressions <blood dk macros priority>. Found 0 instead of 3 
 
 
 Death Knight Frost Overview Title has the wrong format. <Frost Death Knight Overview> instead of <Frost Death Knight Guide – Legion 7.3> 
 DK doesn't show up 2 times on Frost Death Knight Overview Guide
 DK doesn't show as often as it should on Frost Death Knight Overview Guide - Only 0 appearances in 8 aliases
-Death Knight Frost Overview Guide needs more expressions <frost death knight guide>. Found 1 instead of 3 
+Death Knight Frost Overview Guide needs more expressions <frost dk guide>. Found 1 instead of 3 
 Death Knight Frost Talent Title has the wrong format. <Frost Death Knight Talents> instead of <Frost Death Knight Talents & Build Guide – Legion 7.3> 
 DK doesn't show up 2 times on Frost Death Knight Talent Guide
 DK doesn't show as often as it should on Frost Death Knight Talent Guide - Only 1 appearances in 12 aliases
-Death Knight Frost Talent Guide needs more expressions <frost death knight talents>. Found 0 instead of 2 
-Death Knight Frost Talent Guide needs more expressions <frost death knight build>. Found 0 instead of 2 
+Death Knight Frost Talent Guide needs more expressions <frost dk talents>. Found 0 instead of 2 
+Death Knight Frost Talent Guide needs more expressions <frost dk build>. Found 0 instead of 2 
+Death Knight Frost Rotation Title has the wrong format. <Frost Death Knight Rotation and Priorities> instead of <Frost Death Knight Rotation – Legion 7.3> 
+DK doesn't show up 2 times on Frost Death Knight Rotation Guide
+DK doesn't show as often as it should on Frost Death Knight Rotation Guide - Only 0 appearances in 6 aliases
+Death Knight Frost Rotation Guide needs more expressions <frost dk rotation>. Found 0 instead of 4 
+Death Knight Frost Rotation Title has the wrong format. <Frost Death Knight Artifact: Netherlight Crucible, Traits, Relics> instead of <Frost Death Knight Artifact Weapon: Blades of the Fallen Prince – Legion 7.3> 
+DK doesn't show up 2 times on Frost Death Knight Artifact Guide
+DK doesn't show as often as it should on Frost Death Knight Artifact Guide - Only 0 appearances in 2 aliases
+Death Knight Frost Artifact Guide needs more expressions <frost dk artifact>. Found 0 instead of 3 
+Death Knight Frost Gear Title has the wrong format. <Frost Death Knight Gear Recommendations> instead of <Frost Death Knight Gear, Tier Sets & BiS  – Legion 7.3> 
+DK doesn't show up 2 times on Frost Death Knight Gear Guide
+DK doesn't show as often as it should on Frost Death Knight Gear Guide - Only 0 appearances in 6 aliases
+Death Knight Frost Gear Guide needs more expressions <bis>. Found 0 instead of 3 
+Death Knight Frost Gear Guide needs more expressions <tier sets>. Found 0 instead of 3 
+Death Knight Frost Gear Guide needs more expressions <frost dk gear>. Found 0 instead of 1 
+Death Knight Frost Gear Guide needs more expressions <frost dk tier sets>. Found 0 instead of 1 
+Death Knight Frost Stat Guide wasn't found.
+Death Knight Frost Enhancements Title has the wrong format. <Frost Death Knight Gems, Enchants and Consumables> instead of <Frost Death Knight Enchants, Gems & Enhancements – Legion 7.3> 
+DK doesn't show up 2 times on Frost Death Knight Enhancements Guide
+DK doesn't show as often as it should on Frost Death Knight Enhancements Guide - Only 0 appearances in 2 aliases
+Death Knight Frost Enhancements Guide needs more expressions <frost dk enchants>. Found 0 instead of 2 
+Death Knight Frost Enhancements Guide needs more expressions <frost dk gems>. Found 0 instead of 2 
+Death Knight Frost Macro Title has the wrong format. <Frost Death Knight Macros, Addons, and WeakAuras> instead of <Frost Death Knight Macros & Addons – Legion 7.3> 
+DK doesn't show up 2 times on Frost Death Knight Macro Guide
+DK doesn't show as often as it should on Frost Death Knight Macro Guide - Only 0 appearances in 10 aliases
+Death Knight Frost Macro Guide needs more expressions <frost dk macros priority>. Found 0 instead of 3 
 
 
 Death Knight Unholy Overview Title has the wrong format. <Unholy Death Knight Overview> instead of <Unholy Death Knight Guide – Legion 7.3> 
 DK doesn't show up 2 times on Unholy Death Knight Overview Guide
 DK doesn't show as often as it should on Unholy Death Knight Overview Guide - Only 0 appearances in 5 aliases
-Death Knight Unholy Overview Guide needs more expressions <unholy death knight guide>. Found 1 instead of 3 
+Death Knight Unholy Overview Guide needs more expressions <unholy dk guide>. Found 1 instead of 3 
 Death Knight Unholy Talent Title has the wrong format. <Unholy Death Knight Talents> instead of <Unholy Death Knight Talents & Build Guide – Legion 7.3> 
 DK doesn't show up 2 times on Unholy Death Knight Talent Guide
 DK doesn't show as often as it should on Unholy Death Knight Talent Guide - Only 0 appearances in 2 aliases
-Death Knight Unholy Talent Guide needs more expressions <unholy death knight talents>. Found 0 instead of 2 
-Death Knight Unholy Talent Guide needs more expressions <unholy death knight build>. Found 0 instead of 2 
+Death Knight Unholy Talent Guide needs more expressions <unholy dk talents>. Found 0 instead of 2 
+Death Knight Unholy Talent Guide needs more expressions <unholy dk build>. Found 0 instead of 2 
+Death Knight Unholy Rotation Title has the wrong format. <Unholy Death Knight Rotation and Priorities> instead of <Unholy Death Knight Rotation – Legion 7.3> 
+DK doesn't show up 2 times on Unholy Death Knight Rotation Guide
+DK doesn't show as often as it should on Unholy Death Knight Rotation Guide - Only 0 appearances in 11 aliases
+Death Knight Unholy Rotation Guide needs more expressions <unholy dk rotation>. Found 0 instead of 4 
+Death Knight Unholy Rotation Title has the wrong format. <Unholy Death Knight Artifact: Netherlight Crucible, Traits, Relics> instead of <Unholy Death Knight Artifact Weapon: Apocalypse – Legion 7.3> 
+DK doesn't show up 2 times on Unholy Death Knight Artifact Guide
+DK doesn't show as often as it should on Unholy Death Knight Artifact Guide - Only 0 appearances in 4 aliases
+Death Knight Unholy Artifact Guide needs more expressions <unholy dk artifact>. Found 0 instead of 3 
+Death Knight Unholy Gear Title has the wrong format. <Unholy Death Knight Gear Recommendations> instead of <Unholy Death Knight Gear, Tier Sets & BiS  – Legion 7.3> 
+DK doesn't show up 2 times on Unholy Death Knight Gear Guide
+DK doesn't show as often as it should on Unholy Death Knight Gear Guide - Only 0 appearances in 6 aliases
+Death Knight Unholy Gear Guide needs more expressions <bis>. Found 0 instead of 3 
+Death Knight Unholy Gear Guide needs more expressions <tier sets>. Found 2 instead of 3 
+Death Knight Unholy Gear Guide needs more expressions <unholy dk gear>. Found 0 instead of 1 
+Death Knight Unholy Gear Guide needs more expressions <unholy dk tier sets>. Found 0 instead of 1 
+Death Knight Unholy Stat Guide wasn't found.
+Death Knight Unholy Enhancements Title has the wrong format. <Unholy Death Knight Gems, Enchants and Consumables> instead of <Unholy Death Knight Enchants, Gems & Enhancements – Legion 7.3> 
+DK doesn't show up 2 times on Unholy Death Knight Enhancements Guide
+DK doesn't show as often as it should on Unholy Death Knight Enhancements Guide - Only 0 appearances in 9 aliases
+Death Knight Unholy Enhancements Guide needs more expressions <unholy dk enchants>. Found 0 instead of 2 
+Death Knight Unholy Enhancements Guide needs more expressions <unholy dk gems>. Found 0 instead of 2 
+Death Knight Unholy Macro Title has the wrong format. <Unholy Death Knight Macro, WeakAuras, and Addons> instead of <Unholy Death Knight Macros & Addons – Legion 7.3> 
+DK doesn't show up 2 times on Unholy Death Knight Macro Guide
+DK doesn't show as often as it should on Unholy Death Knight Macro Guide - Only 0 appearances in 10 aliases
+Death Knight Unholy Macro Guide needs more expressions <unholy dk macros priority>. Found 0 instead of 3 
 
 
 Demon Hunter Havoc Overview Title has the wrong format. <Havoc Demon Hunter Overview> instead of <Havoc Demon Hunter Guide – Legion 7.3> 
@@ -71,6 +146,20 @@ Demon Hunter Havoc Overview Guide needs more expressions <havoc demon hunter gui
 Demon Hunter Havoc Talent Title has the wrong format. <Havoc Demon Hunter Talents> instead of <Havoc Demon Hunter Talents & Build Guide – Legion 7.3> 
 Demon Hunter Havoc Talent Guide needs more expressions <havoc demon hunter talents>. Found 0 instead of 2 
 Demon Hunter Havoc Talent Guide needs more expressions <havoc demon hunter build>. Found 0 instead of 2 
+Demon Hunter Havoc Rotation Title has the wrong format. <Havoc Demon Hunter Rotation and Priorities> instead of <Havoc Demon Hunter Rotation – Legion 7.3> 
+Demon Hunter Havoc Rotation Guide needs more expressions <havoc demon hunter rotation>. Found 0 instead of 4 
+Demon Hunter Havoc Rotation Title has the wrong format. <Havoc Demon Hunter Artifact: Netherlight Crucible, Traits, Relics> instead of <Havoc Demon Hunter Artifact Weapon: Twinblades of the Deceiver – Legion 7.3> 
+Demon Hunter Havoc Artifact Guide needs more expressions <havoc demon hunter artifact>. Found 0 instead of 3 
+Demon Hunter Havoc Gear Title has the wrong format. <Havoc Demon Hunter Gear Recommendations> instead of <Havoc Demon Hunter Gear, Tier Sets & BiS  – Legion 7.3> 
+Demon Hunter Havoc Gear Guide needs more expressions <bis>. Found 0 instead of 3 
+Demon Hunter Havoc Gear Guide needs more expressions <tier sets>. Found 0 instead of 3 
+Demon Hunter Havoc Gear Guide needs more expressions <havoc demon hunter gear>. Found 0 instead of 1 
+Demon Hunter Havoc Gear Guide needs more expressions <havoc demon hunter tier sets>. Found 0 instead of 1 
+Demon Hunter Havoc Stat Guide wasn't found.
+Demon Hunter Havoc Enhancements Title has the wrong format. <Havoc Demon Hunter Gems, Enchants, and Consumables> instead of <Havoc Demon Hunter Enchants, Gems & Enhancements – Legion 7.3> 
+Demon Hunter Havoc Enhancements Guide needs more expressions <havoc demon hunter enchants>. Found 0 instead of 2 
+Demon Hunter Havoc Enhancements Guide needs more expressions <havoc demon hunter gems>. Found 0 instead of 2 
+Demon Hunter Havoc Macro Guide wasn't found.
 
 
 Demon Hunter Vengeance Overview Title has the wrong format. <Vengeance Demon Hunter Overview> instead of <Vengeance Demon Hunter Guide – Legion 7.3> 
@@ -78,6 +167,20 @@ Demon Hunter Vengeance Overview Guide needs more expressions <vengeance demon hu
 Demon Hunter Vengeance Talent Title has the wrong format. <Vengeance Demon Hunter Talents> instead of <Vengeance Demon Hunter Talents & Build Guide – Legion 7.3> 
 Demon Hunter Vengeance Talent Guide needs more expressions <vengeance demon hunter talents>. Found 0 instead of 2 
 Demon Hunter Vengeance Talent Guide needs more expressions <vengeance demon hunter build>. Found 1 instead of 2 
+Demon Hunter Vengeance Rotation Title has the wrong format. <Vengeance Demon Hunter Rotation and Priorities> instead of <Vengeance Demon Hunter Rotation – Legion 7.3> 
+Demon Hunter Vengeance Rotation Guide needs more expressions <vengeance demon hunter rotation>. Found 0 instead of 4 
+Demon Hunter Vengeance Rotation Title has the wrong format. <Vengeance Demon Hunter Artifact: Netherlight Crucible, Traits, Relics> instead of <Vengeance Demon Hunter Artifact Weapon: Aldrachi Warblades – Legion 7.3> 
+Demon Hunter Vengeance Artifact Guide needs more expressions <vengeance demon hunter artifact>. Found 0 instead of 3 
+Demon Hunter Vengeance Gear Title has the wrong format. <Vengeance Demon Hunter Gear Recommendations> instead of <Vengeance Demon Hunter Gear, Tier Sets & BiS  – Legion 7.3> 
+Demon Hunter Vengeance Gear Guide needs more expressions <bis>. Found 2 instead of 3 
+Demon Hunter Vengeance Gear Guide needs more expressions <tier sets>. Found 0 instead of 3 
+Demon Hunter Vengeance Gear Guide needs more expressions <vengeance demon hunter gear>. Found 0 instead of 1 
+Demon Hunter Vengeance Gear Guide needs more expressions <vengeance demon hunter tier sets>. Found 0 instead of 1 
+Demon Hunter Vengeance Stat Guide wasn't found.
+Demon Hunter Vengeance Enhancements Title has the wrong format. <Vengeance Demon Hunter Gems, Enchants, and Consumables> instead of <Vengeance Demon Hunter Enchants, Gems & Enhancements – Legion 7.3> 
+Demon Hunter Vengeance Enhancements Guide needs more expressions <vengeance demon hunter enchants>. Found 0 instead of 2 
+Demon Hunter Vengeance Enhancements Guide needs more expressions <vengeance demon hunter gems>. Found 0 instead of 2 
+Demon Hunter Vengeance Macro Guide wasn't found.
 
 
 Druid Balance Overview Title has the wrong format. <Balance Druid Overview> instead of <Balance Druid Guide – Legion 7.3> 
@@ -85,6 +188,21 @@ Druid Balance Overview Guide needs more expressions <balance druid guide>. Found
 Druid Balance Talent Title has the wrong format. <Balance Druid Talents> instead of <Balance Druid Talents & Build Guide – Legion 7.3> 
 Druid Balance Talent Guide needs more expressions <balance druid talents>. Found 0 instead of 2 
 Druid Balance Talent Guide needs more expressions <balance druid build>. Found 0 instead of 2 
+Druid Balance Rotation Title has the wrong format. <Balance Druid Rotation and Priorities> instead of <Balance Druid Rotation – Legion 7.3> 
+Druid Balance Rotation Guide needs more expressions <balance druid rotation>. Found 0 instead of 4 
+Druid Balance Rotation Title has the wrong format. <Balance Druid Artifact: Netherlight Crucible, Traits, Relics> instead of <Balance Druid Artifact Weapon: Scythe of Elune – Legion 7.3> 
+Druid Balance Artifact Guide needs more expressions <balance druid artifact>. Found 0 instead of 3 
+Druid Balance Gear Title has the wrong format. <Balance Druid Gear Recommendations> instead of <Balance Druid Gear, Tier Sets & BiS  – Legion 7.3> 
+Druid Balance Gear Guide needs more expressions <tier sets>. Found 0 instead of 3 
+Druid Balance Gear Guide needs more expressions <armor>. Found 2 instead of 3 
+Druid Balance Gear Guide needs more expressions <balance druid gear>. Found 0 instead of 1 
+Druid Balance Gear Guide needs more expressions <balance druid tier sets>. Found 0 instead of 1 
+Druid Balance Stat Guide wasn't found.
+Druid Balance Enhancements Title has the wrong format. <Balance Druid Gems, Enchants and Consumables Page> instead of <Balance Druid Enchants, Gems & Enhancements – Legion 7.3> 
+Druid Balance Enhancements Guide needs more expressions <balance druid enchants>. Found 0 instead of 2 
+Druid Balance Enhancements Guide needs more expressions <balance druid gems>. Found 0 instead of 2 
+Druid Balance Macro Title has the wrong format. <Balance Druid Macros, Addons, and WeakAuras> instead of <Balance Druid Macros & Addons – Legion 7.3> 
+Druid Balance Macro Guide needs more expressions <balance druid macros priority>. Found 0 instead of 3 
 
 
 Druid Guardian Overview Title has the wrong format. <Guardian Druid Overview> instead of <Guardian Druid Guide – Legion 7.3> 
@@ -92,6 +210,22 @@ Druid Guardian Overview Guide needs more expressions <guardian druid guide>. Fou
 Druid Guardian Talent Title has the wrong format. <Guardian Druid Talents> instead of <Guardian Druid Talents & Build Guide – Legion 7.3> 
 Druid Guardian Talent Guide needs more expressions <guardian druid talents>. Found 0 instead of 2 
 Druid Guardian Talent Guide needs more expressions <guardian druid build>. Found 0 instead of 2 
+Druid Guardian Rotation Title has the wrong format. <Guardian Druid Rotation and Priorities> instead of <Guardian Druid Rotation – Legion 7.3> 
+Druid Guardian Rotation Guide needs more expressions <guardian druid rotation>. Found 0 instead of 4 
+Druid Guardian Rotation Title has the wrong format. <Guardian Druid Artifact: Netherlight Crucible, Traits, Relics> instead of <Guardian Druid Artifact Weapon: Claws of Ursoc – Legion 7.3> 
+Druid Guardian Artifact Guide needs more expressions <guardian druid artifact>. Found 0 instead of 3 
+Druid Guardian Gear Title has the wrong format. <Guardian Druid Gear and Recommendations> instead of <Guardian Druid Gear, Tier Sets & BiS  – Legion 7.3> 
+Druid Guardian Gear Guide needs more expressions <bis>. Found 0 instead of 3 
+Druid Guardian Gear Guide needs more expressions <tier sets>. Found 0 instead of 3 
+Druid Guardian Gear Guide needs more expressions <armor>. Found 2 instead of 3 
+Druid Guardian Gear Guide needs more expressions <guardian druid gear>. Found 0 instead of 1 
+Druid Guardian Gear Guide needs more expressions <guardian druid tier sets>. Found 0 instead of 1 
+Druid Guardian Stat Guide wasn't found.
+Druid Guardian Enhancements Title has the wrong format. <Guardian Druid Gems, Enchants and Consumables Page> instead of <Guardian Druid Enchants, Gems & Enhancements – Legion 7.3> 
+Druid Guardian Enhancements Guide needs more expressions <guardian druid enchants>. Found 0 instead of 2 
+Druid Guardian Enhancements Guide needs more expressions <guardian druid gems>. Found 0 instead of 2 
+Druid Guardian Macro Title has the wrong format. <Guardian Druid Macros, Addons, and WeakAuras> instead of <Guardian Druid Macros & Addons – Legion 7.3> 
+Druid Guardian Macro Guide needs more expressions <guardian druid macros priority>. Found 0 instead of 3 
 
 
 Druid Feral Overview Title has the wrong format. <Feral Druid Overview> instead of <Feral Druid Guide – Legion 7.3> 
@@ -99,6 +233,22 @@ Druid Feral Overview Guide needs more expressions <feral druid guide>. Found 1 i
 Druid Feral Talent Title has the wrong format. <Feral Druid Talents> instead of <Feral Druid Talents & Build Guide – Legion 7.3> 
 Druid Feral Talent Guide needs more expressions <feral druid talents>. Found 0 instead of 2 
 Druid Feral Talent Guide needs more expressions <feral druid build>. Found 0 instead of 2 
+Druid Feral Rotation Title has the wrong format. <Feral Druid Rotation and Priorities> instead of <Feral Druid Rotation – Legion 7.3> 
+Druid Feral Rotation Guide needs more expressions <feral druid rotation>. Found 0 instead of 4 
+Druid Feral Rotation Title has the wrong format. <Feral Druid Artifact: Netherlight Crucible, Traits, Relics> instead of <Feral Druid Artifact Weapon: Fangs of Ashamane – Legion 7.3> 
+Druid Feral Artifact Guide needs more expressions <feral druid artifact>. Found 0 instead of 3 
+Druid Feral Gear Title has the wrong format. <Feral Druid Gear Recommendations> instead of <Feral Druid Gear, Tier Sets & BiS  – Legion 7.3> 
+Druid Feral Gear Guide needs more expressions <bis>. Found 0 instead of 3 
+Druid Feral Gear Guide needs more expressions <tier sets>. Found 0 instead of 3 
+Druid Feral Gear Guide needs more expressions <armor>. Found 2 instead of 3 
+Druid Feral Gear Guide needs more expressions <feral druid gear>. Found 0 instead of 1 
+Druid Feral Gear Guide needs more expressions <feral druid tier sets>. Found 0 instead of 1 
+Druid Feral Stat Guide wasn't found.
+Druid Feral Enhancements Title has the wrong format. <Feral Druid Gems, Enchants and Consumables Page> instead of <Feral Druid Enchants, Gems & Enhancements – Legion 7.3> 
+Druid Feral Enhancements Guide needs more expressions <feral druid enchants>. Found 0 instead of 2 
+Druid Feral Enhancements Guide needs more expressions <feral druid gems>. Found 0 instead of 2 
+Druid Feral Macro Title has the wrong format. <Feral Druid Macros, Addons, and WeakAuras> instead of <Feral Druid Macros & Addons – Legion 7.3> 
+Druid Feral Macro Guide needs more expressions <feral druid macros priority>. Found 0 instead of 3 
 
 
 Druid Restoration Overview Title has the wrong format. <Restoration Druid Overview> instead of <Restoration Druid Guide – Legion 7.3> 
@@ -110,28 +260,105 @@ Resto doesn't show up 2 times on Restoration Druid Talent Guide
 Resto doesn't show as often as it should on Restoration Druid Talent Guide - Only 0 appearances in 7 aliases
 Druid Restoration Talent Guide needs more expressions <resto druid talents>. Found 0 instead of 2 
 Druid Restoration Talent Guide needs more expressions <resto druid build>. Found 0 instead of 2 
+Druid Restoration Rotation Title has the wrong format. <Restoration Druid Priorities and Abilities> instead of <Restoration Druid Rotation – Legion 7.3> 
+Resto doesn't show up 2 times on Restoration Druid Rotation Guide
+Resto doesn't show as often as it should on Restoration Druid Rotation Guide - Only 0 appearances in 6 aliases
+Druid Restoration Rotation Guide needs more expressions <resto druid rotation>. Found 0 instead of 4 
+Druid Restoration Rotation Title has the wrong format. <Restoration Druid Artifact: Netherlight Crucible, Traits, Relics> instead of <Restoration Druid Artifact Weapon: G'Hanir, the Mother Tree – Legion 7.3> 
+Resto doesn't show up 2 times on Restoration Druid Artifact Guide
+Resto doesn't show as often as it should on Restoration Druid Artifact Guide - Only 0 appearances in 4 aliases
+Druid Restoration Artifact Guide needs more expressions <resto druid artifact>. Found 0 instead of 3 
+Druid Restoration Gear Title has the wrong format. <Restoration Druid Gear Recommendations> instead of <Restoration Druid Gear, Tier Sets & BiS  – Legion 7.3> 
+Resto doesn't show up 2 times on Restoration Druid Gear Guide
+Resto doesn't show as often as it should on Restoration Druid Gear Guide - Only 1 appearances in 30 aliases
+Druid Restoration Gear Guide needs more expressions <bis>. Found 0 instead of 3 
+Druid Restoration Gear Guide needs more expressions <tier sets>. Found 0 instead of 3 
+Druid Restoration Gear Guide needs more expressions <resto druid gear>. Found 0 instead of 1 
+Druid Restoration Gear Guide needs more expressions <resto druid tier sets>. Found 0 instead of 1 
+Druid Restoration Stat Guide wasn't found.
+Druid Restoration Enhancements Title has the wrong format. <Restoration Druid Gems, Enchants and Consumables Page> instead of <Restoration Druid Enchants, Gems & Enhancements – Legion 7.3> 
+Resto doesn't show up 2 times on Restoration Druid Enhancements Guide
+Resto doesn't show as often as it should on Restoration Druid Enhancements Guide - Only 0 appearances in 3 aliases
+Druid Restoration Enhancements Guide needs more expressions <resto druid enchants>. Found 0 instead of 2 
+Druid Restoration Enhancements Guide needs more expressions <resto druid gems>. Found 0 instead of 2 
+Druid Restoration Macro Title has the wrong format. <Restoration Druid Macros, Addons, and WeakAuras> instead of <Restoration Druid Macros & Addons – Legion 7.3> 
+Resto doesn't show up 2 times on Restoration Druid Macro Guide
+Resto doesn't show as often as it should on Restoration Druid Macro Guide - Only 0 appearances in 2 aliases
+Druid Restoration Macro Guide needs more expressions <resto druid macros priority>. Found 0 instead of 3 
 
 
 Hunter Beast Mastery Overview Title has the wrong format. <Beast Mastery Hunter Overview> instead of <Beast Mastery Hunter Guide – Legion 7.3> 
 BM doesn't show up 2 times on Beast Mastery Hunter Overview Guide
-Hunter Beast Mastery Overview Guide needs more expressions <beast mastery hunter guide>. Found 0 instead of 3 
+Hunter Beast Mastery Overview Guide needs more expressions <bm hunter guide>. Found 0 instead of 3 
 Hunter Beast Mastery Talent Title has the wrong format. <Beast Mastery Hunter Talents> instead of <Beast Mastery Hunter Talents & Build Guide – Legion 7.3> 
 BM doesn't show up 2 times on Beast Mastery Hunter Talent Guide
-Hunter Beast Mastery Talent Guide needs more expressions <beast mastery hunter talents>. Found 0 instead of 2 
-Hunter Beast Mastery Talent Guide needs more expressions <beast mastery hunter build>. Found 0 instead of 2 
+Hunter Beast Mastery Talent Guide needs more expressions <bm hunter talents>. Found 0 instead of 2 
+Hunter Beast Mastery Talent Guide needs more expressions <bm hunter build>. Found 0 instead of 2 
+Hunter Beast Mastery Rotation Title has the wrong format. <Beast Mastery Hunter Rotation and Priorities> instead of <Beast Mastery Hunter Rotation – Legion 7.3> 
+BM doesn't show up 2 times on Beast Mastery Hunter Rotation Guide
+Beast Mastery doesn't show up 2 times on Beast Mastery Hunter Rotation Guide
+Hunter Beast Mastery Rotation Guide needs more expressions <bm hunter rotation>. Found 0 instead of 4 
+Hunter Beast Mastery Rotation Title has the wrong format. <Beast Mastery Artifact: Netherlight Crucible, Traits, Relics> instead of <Beast Mastery Hunter Artifact Weapon: Titanstrike – Legion 7.3> 
+BM doesn't show up 2 times on Beast Mastery Hunter Artifact Guide
+Hunter Beast Mastery Artifact Guide needs more expressions <bm hunter artifact>. Found 0 instead of 3 
+Hunter Beast Mastery Gear Title has the wrong format. <Beast Mastery Hunter Gear Recommendations> instead of <Beast Mastery Hunter Gear, Tier Sets & BiS  – Legion 7.3> 
+BM doesn't show up 2 times on Beast Mastery Hunter Gear Guide
+Hunter Beast Mastery Gear Guide needs more expressions <bis>. Found 0 instead of 3 
+Hunter Beast Mastery Gear Guide needs more expressions <tier sets>. Found 0 instead of 3 
+Hunter Beast Mastery Gear Guide needs more expressions <bm hunter gear>. Found 0 instead of 1 
+Hunter Beast Mastery Gear Guide needs more expressions <bm hunter tier sets>. Found 0 instead of 1 
+Hunter Beast Mastery Stat Guide wasn't found.
+Hunter Beast Mastery Enhancements Title has the wrong format. <Beast Mastery Hunter Gems, Enchants and Consumables Page> instead of <Beast Mastery Hunter Enchants, Gems & Enhancements – Legion 7.3> 
+BM doesn't show up 2 times on Beast Mastery Hunter Enhancements Guide
+Beast Mastery doesn't show up 2 times on Beast Mastery Hunter Enhancements Guide
+Hunter Beast Mastery Enhancements Guide needs more expressions <bm hunter enchants>. Found 0 instead of 2 
+Hunter Beast Mastery Enhancements Guide needs more expressions <bm hunter gems>. Found 0 instead of 2 
+Hunter Beast Mastery Macro Title has the wrong format. <Beast Mastery Hunter Macros, Addons, and WeakAuras> instead of <Beast Mastery Hunter Macros & Addons – Legion 7.3> 
+BM doesn't show up 2 times on Beast Mastery Hunter Macro Guide
+Beast Mastery doesn't show up 2 times on Beast Mastery Hunter Macro Guide
+Hunter Beast Mastery Macro Guide needs more expressions <bm hunter macros priority>. Found 0 instead of 3 
 
 
 Hunter Marksmanship Overview Title has the wrong format. <Marksmanship Hunter Overview> instead of <Marksmanship Hunter Guide – Legion 7.3> 
 Marksman doesn't show up 2 times on Marksmanship Hunter Overview Guide
 Marksman doesn't show as often as it should on Marksmanship Hunter Overview Guide - Only 0 appearances in 7 aliases
 MM doesn't show up 2 times on Marksmanship Hunter Overview Guide
-Hunter Marksmanship Overview Guide needs more expressions <marksman hunter guide>. Found 1 instead of 3 
+Hunter Marksmanship Overview Guide needs more expressions <marksmanship hunter guide>. Found 1 instead of 3 
 Hunter Marksmanship Talent Title has the wrong format. <Marksmanship Hunter Talents> instead of <Marksmanship Hunter Talents & Build Guide – Legion 7.3> 
 Marksman doesn't show up 2 times on Marksmanship Hunter Talent Guide
 Marksman doesn't show as often as it should on Marksmanship Hunter Talent Guide - Only 0 appearances in 3 aliases
 MM doesn't show up 2 times on Marksmanship Hunter Talent Guide
-Hunter Marksmanship Talent Guide needs more expressions <marksman hunter talents>. Found 0 instead of 2 
-Hunter Marksmanship Talent Guide needs more expressions <marksman hunter build>. Found 0 instead of 2 
+Hunter Marksmanship Talent Guide needs more expressions <marksmanship hunter talents>. Found 0 instead of 2 
+Hunter Marksmanship Talent Guide needs more expressions <marksmanship hunter build>. Found 0 instead of 2 
+Hunter Marksmanship Rotation Title has the wrong format. <Marksmanship Hunter Rotation and Priorities> instead of <Marksmanship Hunter Rotation – Legion 7.3> 
+Marksman doesn't show up 2 times on Marksmanship Hunter Rotation Guide
+Marksman doesn't show as often as it should on Marksmanship Hunter Rotation Guide - Only 1 appearances in 4 aliases
+MM doesn't show up 2 times on Marksmanship Hunter Rotation Guide
+Hunter Marksmanship Rotation Guide needs more expressions <marksmanship hunter rotation>. Found 0 instead of 4 
+Hunter Marksmanship Rotation Title has the wrong format. <Marksmanship Hunter Artifact: Netherlight Crucible, Traits, Relics> instead of <Marksmanship Hunter Artifact Weapon: Thas'dorah – Legion 7.3> 
+Marksman doesn't show up 2 times on Marksmanship Hunter Artifact Guide
+Marksman doesn't show as often as it should on Marksmanship Hunter Artifact Guide - Only 0 appearances in 2 aliases
+MM doesn't show up 2 times on Marksmanship Hunter Artifact Guide
+Hunter Marksmanship Artifact Guide needs more expressions <marksmanship hunter artifact>. Found 0 instead of 3 
+Hunter Marksmanship Gear Title has the wrong format. <Marksmanship Hunter Gear Recommendations> instead of <Marksmanship Hunter Gear, Tier Sets & BiS  – Legion 7.3> 
+Marksman doesn't show up 2 times on Marksmanship Hunter Gear Guide
+Marksman doesn't show as often as it should on Marksmanship Hunter Gear Guide - Only 0 appearances in 7 aliases
+Hunter Marksmanship Gear Guide needs more expressions <bis>. Found 0 instead of 3 
+Hunter Marksmanship Gear Guide needs more expressions <tier sets>. Found 0 instead of 3 
+Hunter Marksmanship Gear Guide needs more expressions <marksmanship hunter gear>. Found 0 instead of 1 
+Hunter Marksmanship Gear Guide needs more expressions <marksmanship hunter tier sets>. Found 0 instead of 1 
+Hunter Marksmanship Stat Guide wasn't found.
+Hunter Marksmanship Enhancements Title has the wrong format. <Marksmanship Hunter Gems, Enchants and Consumables Page> instead of <Marksmanship Hunter Enchants, Gems & Enhancements – Legion 7.3> 
+Marksman doesn't show up 2 times on Marksmanship Hunter Enhancements Guide
+Marksman doesn't show as often as it should on Marksmanship Hunter Enhancements Guide - Only 0 appearances in 5 aliases
+Hunter Marksmanship Enhancements Guide needs more expressions <marksmanship hunter enchants>. Found 0 instead of 2 
+Hunter Marksmanship Enhancements Guide needs more expressions <marksmanship hunter gems>. Found 0 instead of 2 
+Hunter Marksmanship Macro Title has the wrong format. <Marksmanship Hunter Macros, Addons, and WeakAuras> instead of <Marksmanship Hunter Macros & Addons – Legion 7.3> 
+Marksmanship doesn't show up 2 times on Marksmanship Hunter Macro Guide
+Marksman doesn't show up 2 times on Marksmanship Hunter Macro Guide
+Marksman doesn't show as often as it should on Marksmanship Hunter Macro Guide - Only 0 appearances in 2 aliases
+MM doesn't show up 2 times on Marksmanship Hunter Macro Guide
+Hunter Marksmanship Macro Guide needs more expressions <marksmanship hunter macros priority>. Found 0 instead of 3 
 
 
 Hunter Survival Overview Title has the wrong format. <Survival Hunter Overview> instead of <Survival Hunter Guide – Legion 7.3> 
@@ -139,6 +366,21 @@ Hunter Survival Overview Guide needs more expressions <survival hunter guide>. F
 Hunter Survival Talent Title has the wrong format. <Survival Hunter Talents> instead of <Survival Hunter Talents & Build Guide – Legion 7.3> 
 Hunter Survival Talent Guide needs more expressions <survival hunter talents>. Found 0 instead of 2 
 Hunter Survival Talent Guide needs more expressions <survival hunter build>. Found 0 instead of 2 
+Hunter Survival Rotation Title has the wrong format. <Survival Hunter Rotation and Priorities> instead of <Survival Hunter Rotation – Legion 7.3> 
+Hunter Survival Rotation Guide needs more expressions <survival hunter rotation>. Found 0 instead of 4 
+Hunter Survival Rotation Title has the wrong format. <Survival Hunter Artifact: Netherlight Crucible, Traits, Relics> instead of <Survival Hunter Artifact Weapon: Talonclaw – Legion 7.3> 
+Hunter Survival Artifact Guide needs more expressions <survival hunter artifact>. Found 0 instead of 3 
+Hunter Survival Gear Title has the wrong format. <Survival Hunter Gear Recommendations> instead of <Survival Hunter Gear, Tier Sets & BiS  – Legion 7.3> 
+Hunter Survival Gear Guide needs more expressions <bis>. Found 0 instead of 3 
+Hunter Survival Gear Guide needs more expressions <tier sets>. Found 0 instead of 3 
+Hunter Survival Gear Guide needs more expressions <survival hunter gear>. Found 0 instead of 1 
+Hunter Survival Gear Guide needs more expressions <survival hunter tier sets>. Found 0 instead of 1 
+Hunter Survival Stat Guide wasn't found.
+Hunter Survival Enhancements Title has the wrong format. <Survival Hunter Gems, Enchants and Consumables Page> instead of <Survival Hunter Enchants, Gems & Enhancements – Legion 7.3> 
+Hunter Survival Enhancements Guide needs more expressions <survival hunter enchants>. Found 0 instead of 2 
+Hunter Survival Enhancements Guide needs more expressions <survival hunter gems>. Found 0 instead of 2 
+Hunter Survival Macro Title has the wrong format. <Survival Hunter Macros, Addons, and WeakAuras> instead of <Survival Hunter Macros & Addons – Legion 7.3> 
+Hunter Survival Macro Guide needs more expressions <survival hunter macros priority>. Found 0 instead of 3 
 
 
 Mage Arcane Overview Title has the wrong format. <Arcane Mage Overview> instead of <Arcane Mage Guide – Legion 7.3> 
@@ -146,6 +388,21 @@ Mage Arcane Overview Guide needs more expressions <arcane mage guide>. Found 1 i
 Mage Arcane Talent Title has the wrong format. <Arcane Mage Talents> instead of <Arcane Mage Talents & Build Guide – Legion 7.3> 
 Mage Arcane Talent Guide needs more expressions <arcane mage talents>. Found 0 instead of 2 
 Mage Arcane Talent Guide needs more expressions <arcane mage build>. Found 0 instead of 2 
+Mage Arcane Rotation Title has the wrong format. <Arcane Mage Rotation and Priorities> instead of <Arcane Mage Rotation – Legion 7.3> 
+Mage Arcane Rotation Guide needs more expressions <arcane mage rotation>. Found 0 instead of 4 
+Mage Arcane Rotation Title has the wrong format. <Arcane Mage Artifact: Netherlight Crucible, Traits, Relics> instead of <Arcane Mage Artifact Weapon: Aluneth, Great Staff of the Magna – Legion 7.3> 
+Mage Arcane Artifact Guide needs more expressions <arcane mage artifact>. Found 0 instead of 3 
+Mage Arcane Gear Title has the wrong format. <Arcane Mage Gear Recommendations> instead of <Arcane Mage Gear, Tier Sets & BiS  – Legion 7.3> 
+Mage Arcane Gear Guide needs more expressions <bis>. Found 1 instead of 3 
+Mage Arcane Gear Guide needs more expressions <tier sets>. Found 0 instead of 3 
+Mage Arcane Gear Guide needs more expressions <arcane mage gear>. Found 0 instead of 1 
+Mage Arcane Gear Guide needs more expressions <arcane mage tier sets>. Found 0 instead of 1 
+Mage Arcane Stat Guide wasn't found.
+Mage Arcane Enhancements Title has the wrong format. <Arcane Mage Gems, Enchants and Consumables Page> instead of <Arcane Mage Enchants, Gems & Enhancements – Legion 7.3> 
+Mage Arcane Enhancements Guide needs more expressions <arcane mage enchants>. Found 0 instead of 2 
+Mage Arcane Enhancements Guide needs more expressions <arcane mage gems>. Found 0 instead of 2 
+Mage Arcane Macro Title has the wrong format. <Arcane Mage Macros, Addons, and WeakAuras> instead of <Arcane Mage Macros & Addons – Legion 7.3> 
+Mage Arcane Macro Guide needs more expressions <arcane mage macros priority>. Found 0 instead of 3 
 
 
 Mage Fire Overview Title has the wrong format. <Fire Mage Overview> instead of <Fire Mage Guide – Legion 7.3> 
@@ -153,6 +410,21 @@ Mage Fire Overview Guide needs more expressions <fire mage guide>. Found 1 inste
 Mage Fire Talent Title has the wrong format. <Fire Mage Talents> instead of <Fire Mage Talents & Build Guide – Legion 7.3> 
 Mage Fire Talent Guide needs more expressions <fire mage talents>. Found 0 instead of 2 
 Mage Fire Talent Guide needs more expressions <fire mage build>. Found 0 instead of 2 
+Mage Fire Rotation Title has the wrong format. <Fire Mage Rotation and Priorities> instead of <Fire Mage Rotation – Legion 7.3> 
+Mage Fire Rotation Guide needs more expressions <fire mage rotation>. Found 0 instead of 4 
+Mage Fire Rotation Title has the wrong format. <Fire Mage Artifact: Netherlight Crucible, Traits, Relics> instead of <Fire Mage Artifact Weapon: Felo'melorn – Legion 7.3> 
+Mage Fire Artifact Guide needs more expressions <fire mage artifact>. Found 0 instead of 3 
+Mage Fire Gear Title has the wrong format. <Fire Mage Gear Recommendations> instead of <Fire Mage Gear, Tier Sets & BiS  – Legion 7.3> 
+Mage Fire Gear Guide needs more expressions <bis>. Found 1 instead of 3 
+Mage Fire Gear Guide needs more expressions <tier sets>. Found 0 instead of 3 
+Mage Fire Gear Guide needs more expressions <fire mage gear>. Found 0 instead of 1 
+Mage Fire Gear Guide needs more expressions <fire mage tier sets>. Found 0 instead of 1 
+Mage Fire Stat Guide wasn't found.
+Mage Fire Enhancements Title has the wrong format. <Fire Mage Gems, Enchants and Consumables> instead of <Fire Mage Enchants, Gems & Enhancements – Legion 7.3> 
+Mage Fire Enhancements Guide needs more expressions <fire mage enchants>. Found 0 instead of 2 
+Mage Fire Enhancements Guide needs more expressions <fire mage gems>. Found 0 instead of 2 
+Mage Fire Macro Title has the wrong format. <Fire Mage Macros, Addons, and WeakAuras> instead of <Fire Mage Macros & Addons – Legion 7.3> 
+Mage Fire Macro Guide needs more expressions <fire mage macros priority>. Found 0 instead of 3 
 
 
 Mage Frost Overview Title has the wrong format. <Frost Mage Overview> instead of <Frost Mage Guide – Legion 7.3> 
@@ -160,6 +432,21 @@ Mage Frost Overview Guide needs more expressions <frost mage guide>. Found 1 ins
 Mage Frost Talent Title has the wrong format. <Frost Mage Talents> instead of <Frost Mage Talents & Build Guide – Legion 7.3> 
 Mage Frost Talent Guide needs more expressions <frost mage talents>. Found 0 instead of 2 
 Mage Frost Talent Guide needs more expressions <frost mage build>. Found 0 instead of 2 
+Mage Frost Rotation Title has the wrong format. <Frost Mage Rotation and Priorities> instead of <Frost Mage Rotation – Legion 7.3> 
+Mage Frost Rotation Guide needs more expressions <frost mage rotation>. Found 0 instead of 4 
+Mage Frost Rotation Title has the wrong format. <Frost Mage Artifact: Netherlight Crucible, Traits, Relics> instead of <Frost Mage Artifact Weapon: Ebonchill – Legion 7.3> 
+Mage Frost Artifact Guide needs more expressions <frost mage artifact>. Found 0 instead of 3 
+Mage Frost Gear Title has the wrong format. <Frost Mage Gear Recommendations> instead of <Frost Mage Gear, Tier Sets & BiS  – Legion 7.3> 
+Mage Frost Gear Guide needs more expressions <bis>. Found 1 instead of 3 
+Mage Frost Gear Guide needs more expressions <tier sets>. Found 0 instead of 3 
+Mage Frost Gear Guide needs more expressions <frost mage gear>. Found 0 instead of 1 
+Mage Frost Gear Guide needs more expressions <frost mage tier sets>. Found 0 instead of 1 
+Mage Frost Stat Guide wasn't found.
+Mage Frost Enhancements Title has the wrong format. <Frost Mage Gems, Enchants and Consumables> instead of <Frost Mage Enchants, Gems & Enhancements – Legion 7.3> 
+Mage Frost Enhancements Guide needs more expressions <frost mage enchants>. Found 0 instead of 2 
+Mage Frost Enhancements Guide needs more expressions <frost mage gems>. Found 0 instead of 2 
+Mage Frost Macro Title has the wrong format. <Frost Mage Macros, Addons, and WeakAuras> instead of <Frost Mage Macros & Addons – Legion 7.3> 
+Mage Frost Macro Guide needs more expressions <frost mage macros priority>. Found 0 instead of 3 
 
 
 Monk Brewmaster Overview Title has the wrong format. <Brewmaster Monk Hub Page> instead of <Brewmaster Monk Guide – Legion 7.3> 
@@ -167,6 +454,21 @@ Monk Brewmaster Overview Guide needs more expressions <brewmaster monk guide>. F
 Monk Brewmaster Talent Title has the wrong format. <Brewmaster Monk Talents> instead of <Brewmaster Monk Talents & Build Guide – Legion 7.3> 
 Monk Brewmaster Talent Guide needs more expressions <brewmaster monk talents>. Found 0 instead of 2 
 Monk Brewmaster Talent Guide needs more expressions <brewmaster monk build>. Found 0 instead of 2 
+Monk Brewmaster Rotation Title has the wrong format. <Brewmaster Monk Rotation and Priorities> instead of <Brewmaster Monk Rotation – Legion 7.3> 
+Monk Brewmaster Rotation Guide needs more expressions <brewmaster monk rotation>. Found 0 instead of 4 
+Monk Brewmaster Rotation Title has the wrong format. <Brewmaster Monk Artifact: Netherlight Crucible, Traits, Relics> instead of <Brewmaster Monk Artifact Weapon: Fu Zan, the Wanderer's Companion – Legion 7.3> 
+Monk Brewmaster Artifact Guide needs more expressions <brewmaster monk artifact>. Found 1 instead of 3 
+Monk Brewmaster Gear Title has the wrong format. <Brewmaster Monk Gear Recommendations> instead of <Brewmaster Monk Gear, Tier Sets & BiS  – Legion 7.3> 
+Monk Brewmaster Gear Guide needs more expressions <bis>. Found 0 instead of 3 
+Monk Brewmaster Gear Guide needs more expressions <tier sets>. Found 0 instead of 3 
+Monk Brewmaster Gear Guide needs more expressions <brewmaster monk gear>. Found 0 instead of 1 
+Monk Brewmaster Gear Guide needs more expressions <brewmaster monk tier sets>. Found 0 instead of 1 
+Monk Brewmaster Stat Guide wasn't found.
+Monk Brewmaster Enhancements Title has the wrong format. <Brewmaster Monk Gems, Enchants and Consumables> instead of <Brewmaster Monk Enchants, Gems & Enhancements – Legion 7.3> 
+Monk Brewmaster Enhancements Guide needs more expressions <brewmaster monk enchants>. Found 0 instead of 2 
+Monk Brewmaster Enhancements Guide needs more expressions <brewmaster monk gems>. Found 0 instead of 2 
+Monk Brewmaster Macro Title has the wrong format. <Brewmaster Monk Macros, Addons, and WeakAuras> instead of <Brewmaster Monk Macros & Addons – Legion 7.3> 
+Monk Brewmaster Macro Guide needs more expressions <brewmaster monk macros priority>. Found 0 instead of 3 
 
 
 Monk Mistweaver Overview Title has the wrong format. <Mistweaver Monk Overview> instead of <Mistweaver Monk Guide – Legion 7.3> 
@@ -174,6 +476,21 @@ Monk Mistweaver Overview Guide needs more expressions <mistweaver monk guide>. F
 Monk Mistweaver Talent Title has the wrong format. <Mistweaver Monk Talents> instead of <Mistweaver Monk Talents & Build Guide – Legion 7.3> 
 Monk Mistweaver Talent Guide needs more expressions <mistweaver monk talents>. Found 0 instead of 2 
 Monk Mistweaver Talent Guide needs more expressions <mistweaver monk build>. Found 0 instead of 2 
+Monk Mistweaver Rotation Title has the wrong format. <Mistweaver Monk Rotation and Cooldowns Page> instead of <Mistweaver Monk Rotation – Legion 7.3> 
+Monk Mistweaver Rotation Guide needs more expressions <mistweaver monk rotation>. Found 0 instead of 4 
+Monk Mistweaver Rotation Title has the wrong format. <Mistweaver Monk Artifact: Netherlight Crucible, Traits, Relics> instead of <Mistweaver Monk Artifact Weapon: Sheilun, Staff of the Mists – Legion 7.3> 
+Monk Mistweaver Artifact Guide needs more expressions <mistweaver monk artifact>. Found 0 instead of 3 
+Monk Mistweaver Gear Title has the wrong format. <Mistweaver Monk Gear Recommendations> instead of <Mistweaver Monk Gear, Tier Sets & BiS  – Legion 7.3> 
+Monk Mistweaver Gear Guide needs more expressions <bis>. Found 0 instead of 3 
+Monk Mistweaver Gear Guide needs more expressions <tier sets>. Found 0 instead of 3 
+Monk Mistweaver Gear Guide needs more expressions <mistweaver monk gear>. Found 0 instead of 1 
+Monk Mistweaver Gear Guide needs more expressions <mistweaver monk tier sets>. Found 0 instead of 1 
+Monk Mistweaver Stat Guide wasn't found.
+Monk Mistweaver Enhancements Title has the wrong format. <Mistweaver Monk Gems, Enchants and Consumables> instead of <Mistweaver Monk Enchants, Gems & Enhancements – Legion 7.3> 
+Monk Mistweaver Enhancements Guide needs more expressions <mistweaver monk enchants>. Found 0 instead of 2 
+Monk Mistweaver Enhancements Guide needs more expressions <mistweaver monk gems>. Found 0 instead of 2 
+Monk Mistweaver Macro Title has the wrong format. <Mistweaver Monk Macros, Addons, and WeakAuras> instead of <Mistweaver Monk Macros & Addons – Legion 7.3> 
+Monk Mistweaver Macro Guide needs more expressions <mistweaver monk macros priority>. Found 0 instead of 3 
 
 
 Monk Windwalker Overview Title has the wrong format. <Windwalker Monk Overview> instead of <Windwalker Monk Guide – Legion 7.3> 
@@ -181,6 +498,22 @@ Monk Windwalker Overview Guide needs more expressions <windwalker monk guide>. F
 Monk Windwalker Talent Title has the wrong format. <Windwalker Monk Talents Page> instead of <Windwalker Monk Talents & Build Guide – Legion 7.3> 
 Monk Windwalker Talent Guide needs more expressions <windwalker monk talents>. Found 0 instead of 2 
 Monk Windwalker Talent Guide needs more expressions <windwalker monk build>. Found 0 instead of 2 
+Monk Windwalker Rotation Title has the wrong format. <Windwalker Monk Rotation and Priorities> instead of <Windwalker Monk Rotation – Legion 7.3> 
+Monk Windwalker Rotation Guide needs more expressions <windwalker monk rotation>. Found 0 instead of 4 
+Monk Windwalker Rotation Title has the wrong format. <Windwalker Monk Artifact: Netherlight Crucible, Traits, Relics> instead of <Windwalker Monk Artifact Weapon: Fists of the Heavens – Legion 7.3> 
+Monk Windwalker Artifact Guide needs more expressions <windwalker monk artifact>. Found 0 instead of 3 
+Monk Windwalker Gear Title has the wrong format. <Windwalker Monk Gear Recommendations> instead of <Windwalker Monk Gear, Tier Sets & BiS  – Legion 7.3> 
+Monk Windwalker Gear Guide needs more expressions <bis>. Found 1 instead of 3 
+Monk Windwalker Gear Guide needs more expressions <tier sets>. Found 0 instead of 3 
+Monk Windwalker Gear Guide needs more expressions <armor>. Found 2 instead of 3 
+Monk Windwalker Gear Guide needs more expressions <windwalker monk gear>. Found 0 instead of 1 
+Monk Windwalker Gear Guide needs more expressions <windwalker monk tier sets>. Found 0 instead of 1 
+Monk Windwalker Stat Guide wasn't found.
+Monk Windwalker Enhancements Title has the wrong format. <Windwalker Monk Gems, Enchants and Consumables> instead of <Windwalker Monk Enchants, Gems & Enhancements – Legion 7.3> 
+Monk Windwalker Enhancements Guide needs more expressions <windwalker monk enchants>. Found 0 instead of 2 
+Monk Windwalker Enhancements Guide needs more expressions <windwalker monk gems>. Found 0 instead of 2 
+Monk Windwalker Macro Title has the wrong format. <Windwalker Monk Macros, Addons, and WeakAuras> instead of <Windwalker Monk Macros & Addons – Legion 7.3> 
+Monk Windwalker Macro Guide needs more expressions <windwalker monk macros priority>. Found 0 instead of 3 
 
 
 Paladin Holy Overview Title has the wrong format. <Holy Paladin Overview> instead of <Holy Paladin Guide – Legion 7.3> 
@@ -188,17 +521,60 @@ Paladin Holy Overview Guide needs more expressions <holy paladin guide>. Found 1
 Paladin Holy Talent Title has the wrong format. <Holy Paladin Talents> instead of <Holy Paladin Talents & Build Guide – Legion 7.3> 
 Paladin Holy Talent Guide needs more expressions <holy paladin talents>. Found 0 instead of 2 
 Paladin Holy Talent Guide needs more expressions <holy paladin build>. Found 0 instead of 2 
+Paladin Holy Rotation Title has the wrong format. <Holy Paladin Rotation and Priorities> instead of <Holy Paladin Rotation – Legion 7.3> 
+Paladin Holy Rotation Guide needs more expressions <holy paladin rotation>. Found 0 instead of 4 
+Paladin Holy Rotation Title has the wrong format. <Holy Paladin Artifact: Netherlight Crucible, Traits, Relics> instead of <Holy Paladin Artifact Weapon: The Silver Hand – Legion 7.3> 
+Paladin Holy Artifact Guide needs more expressions <holy paladin artifact>. Found 0 instead of 3 
+Paladin Holy Gear Title has the wrong format. <Holy Paladin Gear Recommendations> instead of <Holy Paladin Gear, Tier Sets & BiS  – Legion 7.3> 
+Paladin Holy Gear Guide needs more expressions <bis>. Found 0 instead of 3 
+Paladin Holy Gear Guide needs more expressions <tier sets>. Found 0 instead of 3 
+Paladin Holy Gear Guide needs more expressions <holy paladin gear>. Found 0 instead of 1 
+Paladin Holy Gear Guide needs more expressions <holy paladin tier sets>. Found 0 instead of 1 
+Paladin Holy Stat Guide wasn't found.
+Paladin Holy Enhancements Title has the wrong format. <Holy Paladin Gems, Enchants and Consumables> instead of <Holy Paladin Enchants, Gems & Enhancements – Legion 7.3> 
+Paladin Holy Enhancements Guide needs more expressions <holy paladin enchants>. Found 0 instead of 2 
+Paladin Holy Enhancements Guide needs more expressions <holy paladin gems>. Found 0 instead of 2 
+Paladin Holy Macro Title has the wrong format. <Holy Paladin Macros, Addons, and WeakAuras> instead of <Holy Paladin Macros & Addons – Legion 7.3> 
+Paladin Holy Macro Guide needs more expressions <holy paladin macros priority>. Found 0 instead of 3 
 
 
 Paladin Protection Overview Title has the wrong format. <Protection Paladin Overview> instead of <Protection Paladin Guide – Legion 7.3> 
 Prot doesn't show up 2 times on Protection Paladin Overview Guide
 Prot doesn't show as often as it should on Protection Paladin Overview Guide - Only 0 appearances in 6 aliases
-Paladin Protection Overview Guide needs more expressions <prot paladin guide>. Found 1 instead of 3 
+Paladin Protection Overview Guide needs more expressions <protection paladin guide>. Found 1 instead of 3 
 Paladin Protection Talent Title has the wrong format. <Protection Paladin Talents> instead of <Protection Paladin Talents & Build Guide – Legion 7.3> 
 Prot doesn't show up 2 times on Protection Paladin Talent Guide
 Prot doesn't show as often as it should on Protection Paladin Talent Guide - Only 0 appearances in 2 aliases
-Paladin Protection Talent Guide needs more expressions <prot paladin talents>. Found 0 instead of 2 
-Paladin Protection Talent Guide needs more expressions <prot paladin build>. Found 1 instead of 2 
+Paladin Protection Talent Guide needs more expressions <protection paladin talents>. Found 0 instead of 2 
+Paladin Protection Talent Guide needs more expressions <protection paladin build>. Found 1 instead of 2 
+Paladin Protection Rotation Title has the wrong format. <Protection Paladin Rotation and Priorities> instead of <Protection Paladin Rotation – Legion 7.3> 
+Prot doesn't show up 2 times on Protection Paladin Rotation Guide
+Prot doesn't show as often as it should on Protection Paladin Rotation Guide - Only 0 appearances in 3 aliases
+Paladin Protection Rotation Guide needs more expressions <protection paladin rotation>. Found 0 instead of 4 
+Paladin Protection Rotation Title has the wrong format. <Protection Paladin Artifact: Netherlight Crucible, Traits, Relics> instead of <Protection Paladin Artifact Weapon: Truthguard – Legion 7.3> 
+Protection doesn't show up 2 times on Protection Paladin Artifact Guide
+Prot doesn't show up 2 times on Protection Paladin Artifact Guide
+Prot doesn't show as often as it should on Protection Paladin Artifact Guide - Only 0 appearances in 1 aliases
+Paladin Protection Artifact Guide needs more expressions <protection paladin artifact>. Found 0 instead of 3 
+Paladin Protection Gear Title has the wrong format. <Protection Paladin Gear Recommendations> instead of <Protection Paladin Gear, Tier Sets & BiS  – Legion 7.3> 
+Protection doesn't show up 2 times on Protection Paladin Gear Guide
+Prot doesn't show up 2 times on Protection Paladin Gear Guide
+Prot doesn't show as often as it should on Protection Paladin Gear Guide - Only 0 appearances in 1 aliases
+Paladin Protection Gear Guide needs more expressions <bis>. Found 2 instead of 3 
+Paladin Protection Gear Guide needs more expressions <tier sets>. Found 0 instead of 3 
+Paladin Protection Gear Guide needs more expressions <protection paladin gear>. Found 0 instead of 1 
+Paladin Protection Gear Guide needs more expressions <protection paladin tier sets>. Found 0 instead of 1 
+Paladin Protection Stat Guide wasn't found.
+Paladin Protection Enhancements Title has the wrong format. <Protection Paladin Gems, Enchants and Consumables Page> instead of <Protection Paladin Enchants, Gems & Enhancements – Legion 7.3> 
+Protection doesn't show up 2 times on Protection Paladin Enhancements Guide
+Prot doesn't show up 2 times on Protection Paladin Enhancements Guide
+Prot doesn't show as often as it should on Protection Paladin Enhancements Guide - Only 0 appearances in 1 aliases
+Paladin Protection Enhancements Guide needs more expressions <protection paladin enchants>. Found 0 instead of 2 
+Paladin Protection Enhancements Guide needs more expressions <protection paladin gems>. Found 0 instead of 2 
+Paladin Protection Macro Title has the wrong format. <Protection Paladin Macros, Addons, and WeakAuras> instead of <Protection Paladin Macros & Addons – Legion 7.3> 
+Prot doesn't show up 2 times on Protection Paladin Macro Guide
+Prot doesn't show as often as it should on Protection Paladin Macro Guide - Only 0 appearances in 2 aliases
+Paladin Protection Macro Guide needs more expressions <protection paladin macros priority>. Found 0 instead of 3 
 
 
 Paladin Retribution Overview Title has the wrong format. <Retribution Paladin Overview> instead of <Retribution Paladin Guide – Legion 7.3> 
@@ -211,17 +587,69 @@ Ret doesn't show as often as it should on Retribution Paladin Talent Guide - Onl
 Retribution doesn't show up 2 times on Retribution Paladin Talent Guide
 Paladin Retribution Talent Guide needs more expressions <ret paladin talents>. Found 0 instead of 2 
 Paladin Retribution Talent Guide needs more expressions <ret paladin build>. Found 0 instead of 2 
+Paladin Retribution Rotation Title has the wrong format. <Retribution Paladin Rotation and Priorities> instead of <Retribution Paladin Rotation – Legion 7.3> 
+Ret doesn't show up 2 times on Retribution Paladin Rotation Guide
+Ret doesn't show as often as it should on Retribution Paladin Rotation Guide - Only 0 appearances in 1 aliases
+Retribution doesn't show up 2 times on Retribution Paladin Rotation Guide
+Paladin Retribution Rotation Guide needs more expressions <ret paladin rotation>. Found 0 instead of 4 
+Paladin Retribution Rotation Title has the wrong format. <Retribution Paladin Artifact: Netherlight Crucible, Traits, Relics> instead of <Retribution Paladin Artifact Weapon: Ashbringer – Legion 7.3> 
+Ret doesn't show up 2 times on Retribution Paladin Artifact Guide
+Ret doesn't show as often as it should on Retribution Paladin Artifact Guide - Only 0 appearances in 1 aliases
+Retribution doesn't show up 2 times on Retribution Paladin Artifact Guide
+Paladin Retribution Artifact Guide needs more expressions <ret paladin artifact>. Found 0 instead of 3 
+Paladin Retribution Gear Title has the wrong format. <Retribution Paladin Gear Recommendations> instead of <Retribution Paladin Gear, Tier Sets & BiS  – Legion 7.3> 
+Ret doesn't show up 2 times on Retribution Paladin Gear Guide
+Ret doesn't show as often as it should on Retribution Paladin Gear Guide - Only 0 appearances in 3 aliases
+Paladin Retribution Gear Guide needs more expressions <bis>. Found 0 instead of 3 
+Paladin Retribution Gear Guide needs more expressions <tier sets>. Found 0 instead of 3 
+Paladin Retribution Gear Guide needs more expressions <ret paladin gear>. Found 0 instead of 1 
+Paladin Retribution Gear Guide needs more expressions <ret paladin tier sets>. Found 0 instead of 1 
+Paladin Retribution Stat Guide wasn't found.
+Paladin Retribution Enhancements Title has the wrong format. <Retribution Paladin Gems, Enchants and Consumables> instead of <Retribution Paladin Enchants, Gems & Enhancements – Legion 7.3> 
+Ret doesn't show up 2 times on Retribution Paladin Enhancements Guide
+Ret doesn't show as often as it should on Retribution Paladin Enhancements Guide - Only 0 appearances in 2 aliases
+Paladin Retribution Enhancements Guide needs more expressions <ret paladin enchants>. Found 0 instead of 2 
+Paladin Retribution Enhancements Guide needs more expressions <ret paladin gems>. Found 0 instead of 2 
+Paladin Retribution Macro Title has the wrong format. <Retribution Paladin Macro and Addon Page> instead of <Retribution Paladin Macros & Addons – Legion 7.3> 
+Ret doesn't show up 2 times on Retribution Paladin Macro Guide
+Ret doesn't show as often as it should on Retribution Paladin Macro Guide - Only 0 appearances in 1 aliases
+Retribution doesn't show up 2 times on Retribution Paladin Macro Guide
+Paladin Retribution Macro Guide needs more expressions <ret paladin macros priority>. Found 0 instead of 3 
 
 
 Priest Discipline Overview Title has the wrong format. <Discipline Priest Overview> instead of <Discipline Priest Guide – Legion 7.3> 
 Disc doesn't show up 2 times on Discipline Priest Overview Guide
 Disc doesn't show as often as it should on Discipline Priest Overview Guide - Only 0 appearances in 12 aliases
-Priest Discipline Overview Guide needs more expressions <discipline priest guide>. Found 1 instead of 3 
+Priest Discipline Overview Guide needs more expressions <disc priest guide>. Found 1 instead of 3 
 Priest Discipline Talent Title has the wrong format. <Discipline Priest Talents> instead of <Discipline Priest Talents & Build Guide – Legion 7.3> 
 Disc doesn't show up 2 times on Discipline Priest Talent Guide
 Disc doesn't show as often as it should on Discipline Priest Talent Guide - Only 0 appearances in 3 aliases
-Priest Discipline Talent Guide needs more expressions <discipline priest talents>. Found 0 instead of 2 
-Priest Discipline Talent Guide needs more expressions <discipline priest build>. Found 0 instead of 2 
+Priest Discipline Talent Guide needs more expressions <disc priest talents>. Found 0 instead of 2 
+Priest Discipline Talent Guide needs more expressions <disc priest build>. Found 0 instead of 2 
+Priest Discipline Rotation Title has the wrong format. <Discipline Priest Rotation and Priorities> instead of <Discipline Priest Rotation – Legion 7.3> 
+Disc doesn't show as often as it should on Discipline Priest Rotation Guide - Only 4 appearances in 10 aliases
+Priest Discipline Rotation Guide needs more expressions <disc priest rotation>. Found 0 instead of 4 
+Priest Discipline Rotation Title has the wrong format. <Discipline Priest Artifact: Netherlight Crucible, Traits, Relics> instead of <Discipline Priest Artifact Weapon: Light's Wrath – Legion 7.3> 
+Disc doesn't show up 2 times on Discipline Priest Artifact Guide
+Disc doesn't show as often as it should on Discipline Priest Artifact Guide - Only 0 appearances in 2 aliases
+Priest Discipline Artifact Guide needs more expressions <disc priest artifact>. Found 0 instead of 3 
+Priest Discipline Gear Title has the wrong format. <Discipline Priest Gear Recommendations> instead of <Discipline Priest Gear, Tier Sets & BiS  – Legion 7.3> 
+Priest Discipline Gear Guide needs more expressions <bis>. Found 0 instead of 3 
+Priest Discipline Gear Guide needs more expressions <tier sets>. Found 0 instead of 3 
+Priest Discipline Gear Guide needs more expressions <armor>. Found 0 instead of 3 
+Priest Discipline Gear Guide needs more expressions <disc priest gear>. Found 0 instead of 1 
+Priest Discipline Gear Guide needs more expressions <disc priest tier sets>. Found 0 instead of 1 
+Priest Discipline Stat Guide wasn't found.
+Priest Discipline Enhancements Title has the wrong format. <Discipline Priest Gems, Enchants and Consumables Page> instead of <Discipline Priest Enchants, Gems & Enhancements – Legion 7.3> 
+Disc doesn't show up 2 times on Discipline Priest Enhancements Guide
+Disc doesn't show as often as it should on Discipline Priest Enhancements Guide - Only 0 appearances in 1 aliases
+Discipline doesn't show up 2 times on Discipline Priest Enhancements Guide
+Priest Discipline Enhancements Guide needs more expressions <disc priest enchants>. Found 0 instead of 2 
+Priest Discipline Enhancements Guide needs more expressions <disc priest gems>. Found 0 instead of 2 
+Priest Discipline Macro Title has the wrong format. <Discipline Priest Macros, Addons, and WeakAuras> instead of <Discipline Priest Macros & Addons – Legion 7.3> 
+Disc doesn't show up 2 times on Discipline Priest Macro Guide
+Discipline doesn't show up 2 times on Discipline Priest Macro Guide
+Priest Discipline Macro Guide needs more expressions <disc priest macros priority>. Found 0 instead of 3 
 
 
 Priest Holy Overview Title has the wrong format. <Holy Priest Overview> instead of <Holy Priest Guide – Legion 7.3> 
@@ -229,6 +657,22 @@ Priest Holy Overview Guide needs more expressions <holy priest guide>. Found 1 i
 Priest Holy Talent Title has the wrong format. <Holy Priest Talents> instead of <Holy Priest Talents & Build Guide – Legion 7.3> 
 Priest Holy Talent Guide needs more expressions <holy priest talents>. Found 0 instead of 2 
 Priest Holy Talent Guide needs more expressions <holy priest build>. Found 0 instead of 2 
+Priest Holy Rotation Title has the wrong format. <Holy Priest Spells and Playstyle> instead of <Holy Priest Rotation – Legion 7.3> 
+Priest Holy Rotation Guide needs more expressions <holy priest rotation>. Found 0 instead of 4 
+Priest Holy Rotation Title has the wrong format. <Holy Priest Artifact: Netherlight Crucible, Traits, Relics> instead of <Holy Priest Artifact Weapon: T'uure, Beacon of the Naaru – Legion 7.3> 
+Priest Holy Artifact Guide needs more expressions <holy priest artifact>. Found 0 instead of 3 
+Priest Holy Gear Title has the wrong format. <Holy Priest Gear Recommendations> instead of <Holy Priest Gear, Tier Sets & BiS  – Legion 7.3> 
+Priest Holy Gear Guide needs more expressions <bis>. Found 2 instead of 3 
+Priest Holy Gear Guide needs more expressions <tier sets>. Found 0 instead of 3 
+Priest Holy Gear Guide needs more expressions <armor>. Found 0 instead of 3 
+Priest Holy Gear Guide needs more expressions <holy priest gear>. Found 0 instead of 1 
+Priest Holy Gear Guide needs more expressions <holy priest tier sets>. Found 0 instead of 1 
+Priest Holy Stat Guide wasn't found.
+Priest Holy Enhancements Title has the wrong format. <Holy Priest Gems, Enchants and Consumables> instead of <Holy Priest Enchants, Gems & Enhancements – Legion 7.3> 
+Priest Holy Enhancements Guide needs more expressions <holy priest enchants>. Found 0 instead of 2 
+Priest Holy Enhancements Guide needs more expressions <holy priest gems>. Found 0 instead of 2 
+Priest Holy Macro Title has the wrong format. <Holy Priest Macros, Addons, and WeakAuras> instead of <Holy Priest Macros & Addons – Legion 7.3> 
+Priest Holy Macro Guide needs more expressions <holy priest macros priority>. Found 0 instead of 3 
 
 
 Priest Shadow Overview Title has the wrong format. <Shadow Priest Overview> instead of <Shadow Priest Guide – Legion 7.3> 
@@ -236,6 +680,21 @@ Priest Shadow Overview Guide needs more expressions <shadow priest guide>. Found
 Priest Shadow Talent Title has the wrong format. <Shadow Priest Talents> instead of <Shadow Priest Talents & Build Guide – Legion 7.3> 
 Priest Shadow Talent Guide needs more expressions <shadow priest talents>. Found 0 instead of 2 
 Priest Shadow Talent Guide needs more expressions <shadow priest build>. Found 0 instead of 2 
+Priest Shadow Rotation Title has the wrong format. <Shadow Priest Rotation and Priorities> instead of <Shadow Priest Rotation – Legion 7.3> 
+Priest Shadow Rotation Guide needs more expressions <shadow priest rotation>. Found 0 instead of 4 
+Priest Shadow Rotation Title has the wrong format. <Shadow Priest Artifact: Netherlight Crucible, Traits, Relics> instead of <Shadow Priest Artifact Weapon: Xal'atath – Legion 7.3> 
+Priest Shadow Artifact Guide needs more expressions <shadow priest artifact>. Found 0 instead of 3 
+Priest Shadow Gear Title has the wrong format. <Shadow Priest Gear Recommendations> instead of <Shadow Priest Gear, Tier Sets & BiS  – Legion 7.3> 
+Priest Shadow Gear Guide needs more expressions <tier sets>. Found 0 instead of 3 
+Priest Shadow Gear Guide needs more expressions <armor>. Found 2 instead of 3 
+Priest Shadow Gear Guide needs more expressions <shadow priest gear>. Found 0 instead of 1 
+Priest Shadow Gear Guide needs more expressions <shadow priest tier sets>. Found 0 instead of 1 
+Priest Shadow Stat Guide wasn't found.
+Priest Shadow Enhancements Title has the wrong format. <Shadow Priest Gems, Enchants and Consumables> instead of <Shadow Priest Enchants, Gems & Enhancements – Legion 7.3> 
+Priest Shadow Enhancements Guide needs more expressions <shadow priest enchants>. Found 0 instead of 2 
+Priest Shadow Enhancements Guide needs more expressions <shadow priest gems>. Found 0 instead of 2 
+Priest Shadow Macro Title has the wrong format. <Shadow Priest Macros, Addons, and WeakAuras> instead of <Shadow Priest Macros & Addons – Legion 7.3> 
+Priest Shadow Macro Guide needs more expressions <shadow priest macros priority>. Found 0 instead of 3 
 
 
 Rogue Assassination Overview Title has the wrong format. <Assassination Rogue Overview> instead of <Assassination Rogue Guide – Legion 7.3> 
@@ -243,6 +702,21 @@ Rogue Assassination Overview Guide needs more expressions <assassination rogue g
 Rogue Assassination Talent Title has the wrong format. <Assassination Rogue Talents> instead of <Assassination Rogue Talents & Build Guide – Legion 7.3> 
 Rogue Assassination Talent Guide needs more expressions <assassination rogue talents>. Found 0 instead of 2 
 Rogue Assassination Talent Guide needs more expressions <assassination rogue build>. Found 0 instead of 2 
+Rogue Assassination Rotation Title has the wrong format. <Assassination Rogue Rotation and Priorities> instead of <Assassination Rogue Rotation – Legion 7.3> 
+Rogue Assassination Rotation Guide needs more expressions <assassination rogue rotation>. Found 0 instead of 4 
+Rogue Assassination Rotation Title has the wrong format. <Assassination Rogue Artifact: Netherlight Crucible, Traits, Relics> instead of <Assassination Rogue Artifact Weapon: The Kingslayers – Legion 7.3> 
+Rogue Assassination Artifact Guide needs more expressions <assassination rogue artifact>. Found 0 instead of 3 
+Rogue Assassination Gear Title has the wrong format. <Assassination Rogue Gear Recommendations> instead of <Assassination Rogue Gear, Tier Sets & BiS  – Legion 7.3> 
+Rogue Assassination Gear Guide needs more expressions <bis>. Found 0 instead of 3 
+Rogue Assassination Gear Guide needs more expressions <tier sets>. Found 0 instead of 3 
+Rogue Assassination Gear Guide needs more expressions <assassination rogue gear>. Found 0 instead of 1 
+Rogue Assassination Gear Guide needs more expressions <assassination rogue tier sets>. Found 0 instead of 1 
+Rogue Assassination Stat Guide wasn't found.
+Rogue Assassination Enhancements Title has the wrong format. <Assassination Rogue Gems, Enchants and Consumables> instead of <Assassination Rogue Enchants, Gems & Enhancements – Legion 7.3> 
+Rogue Assassination Enhancements Guide needs more expressions <assassination rogue enchants>. Found 0 instead of 2 
+Rogue Assassination Enhancements Guide needs more expressions <assassination rogue gems>. Found 0 instead of 2 
+Rogue Assassination Macro Title has the wrong format. <Assassination Rogue Macros, Addons, and WeakAuras> instead of <Assassination Rogue Macros & Addons – Legion 7.3> 
+Rogue Assassination Macro Guide needs more expressions <assassination rogue macros priority>. Found 0 instead of 3 
 
 
 Rogue Outlaw Overview Title has the wrong format. <Outlaw Rogue Overview> instead of <Outlaw Rogue Guide – Legion 7.3> 
@@ -250,6 +724,21 @@ Rogue Outlaw Overview Guide needs more expressions <outlaw rogue guide>. Found 1
 Rogue Outlaw Talent Title has the wrong format. <Outlaw Rogue Talents> instead of <Outlaw Rogue Talents & Build Guide – Legion 7.3> 
 Rogue Outlaw Talent Guide needs more expressions <outlaw rogue talents>. Found 0 instead of 2 
 Rogue Outlaw Talent Guide needs more expressions <outlaw rogue build>. Found 0 instead of 2 
+Rogue Outlaw Rotation Title has the wrong format. <Outlaw Rogue Rotation and Priorities> instead of <Outlaw Rogue Rotation – Legion 7.3> 
+Rogue Outlaw Rotation Guide needs more expressions <outlaw rogue rotation>. Found 0 instead of 4 
+Rogue Outlaw Rotation Title has the wrong format. <Outlaw Rogue Artifact: Netherlight Crucible, Traits, Relics> instead of <Outlaw Rogue Artifact Weapon: The Dreadblades – Legion 7.3> 
+Rogue Outlaw Artifact Guide needs more expressions <outlaw rogue artifact>. Found 0 instead of 3 
+Rogue Outlaw Gear Title has the wrong format. <Outlaw Rogue Gear Recommendations> instead of <Outlaw Rogue Gear, Tier Sets & BiS  – Legion 7.3> 
+Rogue Outlaw Gear Guide needs more expressions <bis>. Found 0 instead of 3 
+Rogue Outlaw Gear Guide needs more expressions <tier sets>. Found 0 instead of 3 
+Rogue Outlaw Gear Guide needs more expressions <outlaw rogue gear>. Found 0 instead of 1 
+Rogue Outlaw Gear Guide needs more expressions <outlaw rogue tier sets>. Found 0 instead of 1 
+Rogue Outlaw Stat Guide wasn't found.
+Rogue Outlaw Enhancements Title has the wrong format. <Outlaw Rogue Gems, Enchants and Consumables> instead of <Outlaw Rogue Enchants, Gems & Enhancements – Legion 7.3> 
+Rogue Outlaw Enhancements Guide needs more expressions <outlaw rogue enchants>. Found 0 instead of 2 
+Rogue Outlaw Enhancements Guide needs more expressions <outlaw rogue gems>. Found 0 instead of 2 
+Rogue Outlaw Macro Title has the wrong format. <Outlaw Rogue Macros, Addons, and WeakAuras> instead of <Outlaw Rogue Macros & Addons – Legion 7.3> 
+Rogue Outlaw Macro Guide needs more expressions <outlaw rogue macros priority>. Found 0 instead of 3 
 
 
 Rogue Subtlety Overview Title has the wrong format. <Subtlety Rogue Overview> instead of <Subtlety Rogue Guide – Legion 7.3> 
@@ -257,6 +746,21 @@ Rogue Subtlety Overview Guide needs more expressions <subtlety rogue guide>. Fou
 Rogue Subtlety Talent Title has the wrong format. <Subtlety Rogue Talents> instead of <Subtlety Rogue Talents & Build Guide – Legion 7.3> 
 Rogue Subtlety Talent Guide needs more expressions <subtlety rogue talents>. Found 0 instead of 2 
 Rogue Subtlety Talent Guide needs more expressions <subtlety rogue build>. Found 0 instead of 2 
+Rogue Subtlety Rotation Title has the wrong format. <Subtlety Rogue Rotation and Priorities> instead of <Subtlety Rogue Rotation – Legion 7.3> 
+Rogue Subtlety Rotation Guide needs more expressions <subtlety rogue rotation>. Found 0 instead of 4 
+Rogue Subtlety Rotation Title has the wrong format. <Subtlety Rogue Artifact: Netherlight Crucible, Traits, Relics> instead of <Subtlety Rogue Artifact Weapon: Fangs of the Devourer – Legion 7.3> 
+Rogue Subtlety Artifact Guide needs more expressions <subtlety rogue artifact>. Found 0 instead of 3 
+Rogue Subtlety Gear Title has the wrong format. <Subtlety Rogue Gear Recommendations> instead of <Subtlety Rogue Gear, Tier Sets & BiS  – Legion 7.3> 
+Rogue Subtlety Gear Guide needs more expressions <bis>. Found 1 instead of 3 
+Rogue Subtlety Gear Guide needs more expressions <tier sets>. Found 0 instead of 3 
+Rogue Subtlety Gear Guide needs more expressions <subtlety rogue gear>. Found 0 instead of 1 
+Rogue Subtlety Gear Guide needs more expressions <subtlety rogue tier sets>. Found 0 instead of 1 
+Rogue Subtlety Stat Guide wasn't found.
+Rogue Subtlety Enhancements Title has the wrong format. <Subtlety Rogue Gems, Enchants and Consumables> instead of <Subtlety Rogue Enchants, Gems & Enhancements – Legion 7.3> 
+Rogue Subtlety Enhancements Guide needs more expressions <subtlety rogue enchants>. Found 0 instead of 2 
+Rogue Subtlety Enhancements Guide needs more expressions <subtlety rogue gems>. Found 0 instead of 2 
+Rogue Subtlety Macro Title has the wrong format. <Subtlety Rogue Macros, Addons, and WeakAuras> instead of <Subtlety Rogue Macros & Addons – Legion 7.3> 
+Rogue Subtlety Macro Guide needs more expressions <subtlety rogue macros priority>. Found 0 instead of 3 
 
 
 Shaman Elemental Overview Title has the wrong format. <Elemental Shaman Overview> instead of <Elemental Shaman Guide – Legion 7.3> 
@@ -264,6 +768,22 @@ Shaman Elemental Overview Guide needs more expressions <elemental shaman guide>.
 Shaman Elemental Talent Title has the wrong format. <Elemental Shaman Talents> instead of <Elemental Shaman Talents & Build Guide – Legion 7.3> 
 Shaman Elemental Talent Guide needs more expressions <elemental shaman talents>. Found 0 instead of 2 
 Shaman Elemental Talent Guide needs more expressions <elemental shaman build>. Found 0 instead of 2 
+Shaman Elemental Rotation Title has the wrong format. <Elemental Shaman Rotation and Priorities> instead of <Elemental Shaman Rotation – Legion 7.3> 
+Shaman Elemental Rotation Guide needs more expressions <elemental shaman rotation>. Found 0 instead of 4 
+Shaman Elemental Rotation Title has the wrong format. <Elemental Shaman Artifact: Netherlight Crucible, Traits, Relics> instead of <Elemental Shaman Artifact Weapon: The Fist of Ra-Den – Legion 7.3> 
+Shaman Elemental Artifact Guide needs more expressions <elemental shaman artifact>. Found 0 instead of 3 
+Shaman Elemental Gear Title has the wrong format. <Elemental Shaman Gear Recommendations> instead of <Elemental Shaman Gear, Tier Sets & BiS  – Legion 7.3> 
+Shaman Elemental Gear Guide needs more expressions <bis>. Found 0 instead of 3 
+Shaman Elemental Gear Guide needs more expressions <tier sets>. Found 0 instead of 3 
+Shaman Elemental Gear Guide needs more expressions <armor>. Found 2 instead of 3 
+Shaman Elemental Gear Guide needs more expressions <elemental shaman gear>. Found 0 instead of 1 
+Shaman Elemental Gear Guide needs more expressions <elemental shaman tier sets>. Found 0 instead of 1 
+Shaman Elemental Stat Guide wasn't found.
+Shaman Elemental Enhancements Title has the wrong format. <Elemental Shaman Gems, Enchants and Consumables> instead of <Elemental Shaman Enchants, Gems & Enhancements – Legion 7.3> 
+Shaman Elemental Enhancements Guide needs more expressions <elemental shaman enchants>. Found 0 instead of 2 
+Shaman Elemental Enhancements Guide needs more expressions <elemental shaman gems>. Found 0 instead of 2 
+Shaman Elemental Macro Title has the wrong format. <Elemental Shaman Macros, Addons, and WeakAuras> instead of <Elemental Shaman Macros & Addons – Legion 7.3> 
+Shaman Elemental Macro Guide needs more expressions <elemental shaman macros priority>. Found 0 instead of 3 
 
 
 Shaman Enhancement Overview Title has the wrong format. <Enhancement Shaman Overview> instead of <Enhancement Shaman Guide – Legion 7.3> 
@@ -271,6 +791,21 @@ Shaman Enhancement Overview Guide needs more expressions <enhancement shaman gui
 Shaman Enhancement Talent Title has the wrong format. <Enhancement Shaman Talents> instead of <Enhancement Shaman Talents & Build Guide – Legion 7.3> 
 Shaman Enhancement Talent Guide needs more expressions <enhancement shaman talents>. Found 0 instead of 2 
 Shaman Enhancement Talent Guide needs more expressions <enhancement shaman build>. Found 0 instead of 2 
+Shaman Enhancement Rotation Title has the wrong format. <Enhancement Shaman Rotation and Priorities> instead of <Enhancement Shaman Rotation – Legion 7.3> 
+Shaman Enhancement Rotation Guide needs more expressions <enhancement shaman rotation>. Found 0 instead of 4 
+Shaman Enhancement Rotation Title has the wrong format. <Enhancement Shaman Artifact: Netherlight Crucible, Traits, Relics> instead of <Enhancement Shaman Artifact Weapon: Doomhammer – Legion 7.3> 
+Shaman Enhancement Artifact Guide needs more expressions <enhancement shaman artifact>. Found 0 instead of 3 
+Shaman Enhancement Gear Title has the wrong format. <Enhancement Shaman Gear Recommendations> instead of <Enhancement Shaman Gear, Tier Sets & BiS  – Legion 7.3> 
+Shaman Enhancement Gear Guide needs more expressions <bis>. Found 0 instead of 3 
+Shaman Enhancement Gear Guide needs more expressions <tier sets>. Found 0 instead of 3 
+Shaman Enhancement Gear Guide needs more expressions <enhancement shaman gear>. Found 0 instead of 1 
+Shaman Enhancement Gear Guide needs more expressions <enhancement shaman tier sets>. Found 0 instead of 1 
+Shaman Enhancement Stat Guide wasn't found.
+Shaman Enhancement Enhancements Title has the wrong format. <Enhancement Shaman Gems, Enchants and Consumables> instead of <Enhancement Shaman Enchants, Gems & Enhancements – Legion 7.3> 
+Shaman Enhancement Enhancements Guide needs more expressions <enhancement shaman enchants>. Found 0 instead of 2 
+Shaman Enhancement Enhancements Guide needs more expressions <enhancement shaman gems>. Found 0 instead of 2 
+Shaman Enhancement Macro Title has the wrong format. <Enhancement Shaman Macros, Addons, and WeakAuras> instead of <Enhancement Shaman Macros & Addons – Legion 7.3> 
+Shaman Enhancement Macro Guide needs more expressions <enhancement shaman macros priority>. Found 0 instead of 3 
 
 
 Shaman Restoration Overview Title has the wrong format. <Restoration Shaman Overview> instead of <Restoration Shaman Guide – Legion 7.3> 
@@ -280,6 +815,30 @@ Shaman Restoration Talent Title has the wrong format. <Restoration Shaman Talent
 Resto doesn't show as often as it should on Restoration Shaman Talent Guide - Only 3 appearances in 8 aliases
 Shaman Restoration Talent Guide needs more expressions <resto shaman talents>. Found 0 instead of 2 
 Shaman Restoration Talent Guide needs more expressions <resto shaman build>. Found 0 instead of 2 
+Shaman Restoration Rotation Title has the wrong format. <Restoration Shaman Rotation and Priorities> instead of <Restoration Shaman Rotation – Legion 7.3> 
+Resto doesn't show as often as it should on Restoration Shaman Rotation Guide - Only 3 appearances in 10 aliases
+Shaman Restoration Rotation Guide needs more expressions <resto shaman rotation>. Found 0 instead of 4 
+Shaman Restoration Rotation Title has the wrong format. <Restoration Shaman Artifact: Netherlight Crucible, Traits, Relics> instead of <Restoration Shaman Artifact Weapon: Sharas'dal, Scepter of Tides – Legion 7.3> 
+Resto doesn't show up 2 times on Restoration Shaman Artifact Guide
+Resto doesn't show as often as it should on Restoration Shaman Artifact Guide - Only 0 appearances in 1 aliases
+Restoration doesn't show up 2 times on Restoration Shaman Artifact Guide
+Shaman Restoration Artifact Guide needs more expressions <resto shaman artifact>. Found 0 instead of 3 
+Shaman Restoration Gear Title has the wrong format. <Restoration Shaman Gear Recommendations> instead of <Restoration Shaman Gear, Tier Sets & BiS  – Legion 7.3> 
+Resto doesn't show as often as it should on Restoration Shaman Gear Guide - Only 5 appearances in 12 aliases
+Shaman Restoration Gear Guide needs more expressions <bis>. Found 0 instead of 3 
+Shaman Restoration Gear Guide needs more expressions <tier sets>. Found 0 instead of 3 
+Shaman Restoration Gear Guide needs more expressions <resto shaman gear>. Found 0 instead of 1 
+Shaman Restoration Gear Guide needs more expressions <resto shaman tier sets>. Found 0 instead of 1 
+Shaman Restoration Stat Guide wasn't found.
+Shaman Restoration Enhancements Title has the wrong format. <Restoration Shaman Gems, Enchants and Consumables> instead of <Restoration Shaman Enchants, Gems & Enhancements – Legion 7.3> 
+Restoration doesn't show up 2 times on Restoration Shaman Enhancements Guide
+Restoration doesn't show as often as it should on Restoration Shaman Enhancements Guide - Only 1 appearances in 3 aliases
+Shaman Restoration Enhancements Guide needs more expressions <resto shaman enchants>. Found 0 instead of 2 
+Shaman Restoration Enhancements Guide needs more expressions <resto shaman gems>. Found 0 instead of 2 
+Shaman Restoration Macro Title has the wrong format. <Restoration Shaman Macros, Addons, and WeakAuras> instead of <Restoration Shaman Macros & Addons – Legion 7.3> 
+Restoration doesn't show up 2 times on Restoration Shaman Macro Guide
+Restoration doesn't show as often as it should on Restoration Shaman Macro Guide - Only 1 appearances in 3 aliases
+Shaman Restoration Macro Guide needs more expressions <resto shaman macros priority>. Found 0 instead of 3 
 
 
 Warlock Affliction Overview Title has the wrong format. <Affliction Warlock Overview> instead of <Affliction Warlock Guide – Legion 7.3> 
@@ -287,6 +846,22 @@ Warlock Affliction Overview Guide needs more expressions <affliction warlock gui
 Warlock Affliction Talent Title has the wrong format. <Affliction Warlock Talents> instead of <Affliction Warlock Talents & Build Guide – Legion 7.3> 
 Warlock Affliction Talent Guide needs more expressions <affliction warlock talents>. Found 0 instead of 2 
 Warlock Affliction Talent Guide needs more expressions <affliction warlock build>. Found 0 instead of 2 
+Warlock Affliction Rotation Title has the wrong format. <Affliction Warlock Rotation and Priorities> instead of <Affliction Warlock Rotation – Legion 7.3> 
+Warlock Affliction Rotation Guide needs more expressions <affliction warlock rotation>. Found 0 instead of 4 
+Warlock Affliction Rotation Title has the wrong format. <Affliction Warlock Artifact: Netherlight Crucible, Traits, Relics> instead of <Affliction Warlock Artifact Weapon: Ulthalesh, the Deadwind Harvester – Legion 7.3> 
+Warlock Affliction Artifact Guide needs more expressions <affliction warlock artifact>. Found 0 instead of 3 
+Warlock Affliction Gear Title has the wrong format. <Affliction Warlock Gear Recommendations> instead of <Affliction Warlock Gear, Tier Sets & BiS  – Legion 7.3> 
+Warlock Affliction Gear Guide needs more expressions <bis>. Found 0 instead of 3 
+Warlock Affliction Gear Guide needs more expressions <tier sets>. Found 0 instead of 3 
+Warlock Affliction Gear Guide needs more expressions <armor>. Found 2 instead of 3 
+Warlock Affliction Gear Guide needs more expressions <affliction warlock gear>. Found 0 instead of 1 
+Warlock Affliction Gear Guide needs more expressions <affliction warlock tier sets>. Found 0 instead of 1 
+Warlock Affliction Stat Guide wasn't found.
+Warlock Affliction Enhancements Title has the wrong format. <Affliction Warlock Gems, Enchants and Consumables> instead of <Affliction Warlock Enchants, Gems & Enhancements – Legion 7.3> 
+Warlock Affliction Enhancements Guide needs more expressions <affliction warlock enchants>. Found 0 instead of 2 
+Warlock Affliction Enhancements Guide needs more expressions <affliction warlock gems>. Found 0 instead of 2 
+Warlock Affliction Macro Title has the wrong format. <Affliction Warlock Macros, Addons, and WeakAuras> instead of <Affliction Warlock Macros & Addons – Legion 7.3> 
+Warlock Affliction Macro Guide needs more expressions <affliction warlock macros priority>. Found 0 instead of 3 
 
 
 Warlock Destruction Overview Title has the wrong format. <Destruction Warlock Overview> instead of <Destruction Warlock Guide – Legion 7.3> 
@@ -294,6 +869,21 @@ Warlock Destruction Overview Guide needs more expressions <destruction warlock g
 Warlock Destruction Talent Title has the wrong format. <Destruction Warlock Talents> instead of <Destruction Warlock Talents & Build Guide – Legion 7.3> 
 Warlock Destruction Talent Guide needs more expressions <destruction warlock talents>. Found 0 instead of 2 
 Warlock Destruction Talent Guide needs more expressions <destruction warlock build>. Found 0 instead of 2 
+Warlock Destruction Rotation Title has the wrong format. <Destruction Warlock Rotation and Priorities> instead of <Destruction Warlock Rotation – Legion 7.3> 
+Warlock Destruction Rotation Guide needs more expressions <destruction warlock rotation>. Found 0 instead of 4 
+Warlock Destruction Rotation Title has the wrong format. <Destruction Warlock Artifact: Netherlight Crucible, Traits, Relics> instead of <Destruction Warlock Artifact Weapon: Skull of the Man'ari – Legion 7.3> 
+Warlock Destruction Artifact Guide needs more expressions <destruction warlock artifact>. Found 1 instead of 3 
+Warlock Destruction Gear Title has the wrong format. <Destruction Warlock Gear Recommendations> instead of <Destruction Warlock Gear, Tier Sets & BiS  – Legion 7.3> 
+Warlock Destruction Gear Guide needs more expressions <bis>. Found 0 instead of 3 
+Warlock Destruction Gear Guide needs more expressions <tier sets>. Found 0 instead of 3 
+Warlock Destruction Gear Guide needs more expressions <destruction warlock gear>. Found 0 instead of 1 
+Warlock Destruction Gear Guide needs more expressions <destruction warlock tier sets>. Found 0 instead of 1 
+Warlock Destruction Stat Guide wasn't found.
+Warlock Destruction Enhancements Title has the wrong format. <Destruction Warlock Gems, Enchants and Consumables> instead of <Destruction Warlock Enchants, Gems & Enhancements – Legion 7.3> 
+Warlock Destruction Enhancements Guide needs more expressions <destruction warlock enchants>. Found 0 instead of 2 
+Warlock Destruction Enhancements Guide needs more expressions <destruction warlock gems>. Found 0 instead of 2 
+Warlock Destruction Macro Title has the wrong format. <Destruction Warlock Macros, Addons, and WeakAuras> instead of <Destruction Warlock Macros & Addons – Legion 7.3> 
+Warlock Destruction Macro Guide needs more expressions <destruction warlock macros priority>. Found 0 instead of 3 
 
 
 Warlock Demonology Overview Title has the wrong format. <Demonology Warlock Overview> instead of <Demonology Warlock Guide – Legion 7.3> 
@@ -301,6 +891,22 @@ Warlock Demonology Overview Guide needs more expressions <demonology warlock gui
 Warlock Demonology Talent Title has the wrong format. <Demonology Warlock Talents> instead of <Demonology Warlock Talents & Build Guide – Legion 7.3> 
 Warlock Demonology Talent Guide needs more expressions <demonology warlock talents>. Found 0 instead of 2 
 Warlock Demonology Talent Guide needs more expressions <demonology warlock build>. Found 0 instead of 2 
+Warlock Demonology Rotation Title has the wrong format. <Demonology Warlock Rotation and Priorities> instead of <Demonology Warlock Rotation – Legion 7.3> 
+Warlock Demonology Rotation Guide needs more expressions <demonology warlock rotation>. Found 0 instead of 4 
+Warlock Demonology Rotation Title has the wrong format. <Demonology Warlock Artifact: Netherlight Crucible, Traits, Relics> instead of <Demonology Warlock Artifact Weapon: Scepter of Sargeras – Legion 7.3> 
+Warlock Demonology Artifact Guide needs more expressions <demonology warlock artifact>. Found 0 instead of 3 
+Warlock Demonology Gear Title has the wrong format. <Demonology Warlock Gear Recommendations> instead of <Demonology Warlock Gear, Tier Sets & BiS  – Legion 7.3> 
+Warlock Demonology Gear Guide needs more expressions <bis>. Found 0 instead of 3 
+Warlock Demonology Gear Guide needs more expressions <tier sets>. Found 0 instead of 3 
+Warlock Demonology Gear Guide needs more expressions <armor>. Found 2 instead of 3 
+Warlock Demonology Gear Guide needs more expressions <demonology warlock gear>. Found 0 instead of 1 
+Warlock Demonology Gear Guide needs more expressions <demonology warlock tier sets>. Found 0 instead of 1 
+Warlock Demonology Stat Guide wasn't found.
+Warlock Demonology Enhancements Title has the wrong format. <Demonology Warlock Gems, Enchants and Consumables> instead of <Demonology Warlock Enchants, Gems & Enhancements – Legion 7.3> 
+Warlock Demonology Enhancements Guide needs more expressions <demonology warlock enchants>. Found 0 instead of 2 
+Warlock Demonology Enhancements Guide needs more expressions <demonology warlock gems>. Found 0 instead of 2 
+Warlock Demonology Macro Title has the wrong format. <Demonology Warlock Macros, Addons, and WeakAuras> instead of <Demonology Warlock Macros & Addons – Legion 7.3> 
+Warlock Demonology Macro Guide needs more expressions <demonology warlock macros priority>. Found 0 instead of 3 
 
 
 Warrior Arms Overview Title has the wrong format. <Arms Warrior Overview> instead of <Arms Warrior Guide – Legion 7.3> 
@@ -308,6 +914,22 @@ Warrior Arms Overview Guide needs more expressions <arms warrior guide>. Found 1
 Warrior Arms Talent Title has the wrong format. <Arms Warrior Talents> instead of <Arms Warrior Talents & Build Guide – Legion 7.3> 
 Warrior Arms Talent Guide needs more expressions <arms warrior talents>. Found 0 instead of 2 
 Warrior Arms Talent Guide needs more expressions <arms warrior build>. Found 0 instead of 2 
+Warrior Arms Rotation Title has the wrong format. <Arms Warrior Rotation and Priorities> instead of <Arms Warrior Rotation – Legion 7.3> 
+Warrior Arms Rotation Guide needs more expressions <arms warrior rotation>. Found 1 instead of 4 
+Warrior Arms Rotation Title has the wrong format. <Arms Warrior Artifact: Netherlight Crucible, Traits, Relics> instead of <Arms Warrior Artifact Weapon: Strom'kar, the Warbreaker – Legion 7.3> 
+Warrior Arms Artifact Guide needs more expressions <arms warrior artifact>. Found 1 instead of 3 
+Warrior Arms Gear Title has the wrong format. <Arms Warrior Gear Recommendations> instead of <Arms Warrior Gear, Tier Sets & BiS  – Legion 7.3> 
+Warrior Arms Gear Guide needs more expressions <bis>. Found 0 instead of 3 
+Warrior Arms Gear Guide needs more expressions <tier sets>. Found 0 instead of 3 
+Warrior Arms Gear Guide needs more expressions <armor>. Found 2 instead of 3 
+Warrior Arms Gear Guide needs more expressions <arms warrior gear>. Found 0 instead of 1 
+Warrior Arms Gear Guide needs more expressions <arms warrior tier sets>. Found 0 instead of 1 
+Warrior Arms Stat Guide wasn't found.
+Warrior Arms Enhancements Title has the wrong format. <Arms Warrior Gems, Enchants and Consumables> instead of <Arms Warrior Enchants, Gems & Enhancements – Legion 7.3> 
+Warrior Arms Enhancements Guide needs more expressions <arms warrior enchants>. Found 0 instead of 2 
+Warrior Arms Enhancements Guide needs more expressions <arms warrior gems>. Found 0 instead of 2 
+Warrior Arms Macro Title has the wrong format. <Arms Warrior Macros, Addons, and WeakAuras> instead of <Arms Warrior Macros & Addons – Legion 7.3> 
+Warrior Arms Macro Guide needs more expressions <arms warrior macros priority>. Found 0 instead of 3 
 
 
 Warrior Fury Overview Title has the wrong format. <Fury Warrior Overview> instead of <Fury Warrior Guide – Legion 7.3> 
@@ -315,16 +937,58 @@ Warrior Fury Overview Guide needs more expressions <fury warrior guide>. Found 1
 Warrior Fury Talent Title has the wrong format. <Fury Warrior Talents> instead of <Fury Warrior Talents & Build Guide – Legion 7.3> 
 Warrior Fury Talent Guide needs more expressions <fury warrior talents>. Found 0 instead of 2 
 Warrior Fury Talent Guide needs more expressions <fury warrior build>. Found 0 instead of 2 
+Warrior Fury Rotation Title has the wrong format. <Fury Warrior Rotation and Priorities> instead of <Fury Warrior Rotation – Legion 7.3> 
+Warrior Fury Rotation Guide needs more expressions <fury warrior rotation>. Found 1 instead of 4 
+Warrior Fury Rotation Title has the wrong format. <Fury Warrior Artifact: Netherlight Crucible, Traits, Relics> instead of <Fury Warrior Artifact Weapon: Warswords of the Valarjar – Legion 7.3> 
+Warrior Fury Artifact Guide needs more expressions <fury warrior artifact>. Found 1 instead of 3 
+Warrior Fury Gear Title has the wrong format. <Fury Warrior Gear Recommendations> instead of <Fury Warrior Gear, Tier Sets & BiS  – Legion 7.3> 
+Warrior Fury Gear Guide needs more expressions <bis>. Found 0 instead of 3 
+Warrior Fury Gear Guide needs more expressions <tier sets>. Found 0 instead of 3 
+Warrior Fury Gear Guide needs more expressions <armor>. Found 2 instead of 3 
+Warrior Fury Gear Guide needs more expressions <fury warrior gear>. Found 0 instead of 1 
+Warrior Fury Gear Guide needs more expressions <fury warrior tier sets>. Found 0 instead of 1 
+Warrior Fury Stat Guide wasn't found.
+Warrior Fury Enhancements Title has the wrong format. <Fury Warrior Gems, Enchants and Consumables> instead of <Fury Warrior Enchants, Gems & Enhancements – Legion 7.3> 
+Warrior Fury Enhancements Guide needs more expressions <fury warrior enchants>. Found 0 instead of 2 
+Warrior Fury Enhancements Guide needs more expressions <fury warrior gems>. Found 0 instead of 2 
+Warrior Fury Macro Title has the wrong format. <Fury Warrior Macros, Addons, and WeakAuras> instead of <Fury Warrior Macros & Addons – Legion 7.3> 
+Warrior Fury Macro Guide needs more expressions <fury warrior macros priority>. Found 0 instead of 3 
 
 
 Warrior Protection Overview Title has the wrong format. <Protection Warrior Overview> instead of <Protection Warrior Guide – Legion 7.3> 
 Prot doesn't show up 2 times on Protection Warrior Overview Guide
 Prot doesn't show as often as it should on Protection Warrior Overview Guide - Only 0 appearances in 4 aliases
-Warrior Protection Overview Guide needs more expressions <prot warrior guide>. Found 1 instead of 3 
+Warrior Protection Overview Guide needs more expressions <protection warrior guide>. Found 1 instead of 3 
 Warrior Protection Talent Title has the wrong format. <Protection Warrior Talents> instead of <Protection Warrior Talents & Build Guide – Legion 7.3> 
+Protection doesn't show up 2 times on Protection Warrior Talent Guide
 Prot doesn't show up 2 times on Protection Warrior Talent Guide
 Prot doesn't show as often as it should on Protection Warrior Talent Guide - Only 0 appearances in 1 aliases
-Protection doesn't show up 2 times on Protection Warrior Talent Guide
-Warrior Protection Talent Guide needs more expressions <prot warrior talents>. Found 0 instead of 2 
-Warrior Protection Talent Guide needs more expressions <prot warrior build>. Found 0 instead of 2 
+Warrior Protection Talent Guide needs more expressions <protection warrior talents>. Found 0 instead of 2 
+Warrior Protection Talent Guide needs more expressions <protection warrior build>. Found 0 instead of 2 
+Warrior Protection Rotation Title has the wrong format. <Protection Warrior Rotation and Priorities> instead of <Protection Warrior Rotation – Legion 7.3> 
+Prot doesn't show up 2 times on Protection Warrior Rotation Guide
+Prot doesn't show as often as it should on Protection Warrior Rotation Guide - Only 0 appearances in 2 aliases
+Warrior Protection Rotation Guide needs more expressions <protection warrior rotation>. Found 0 instead of 4 
+Warrior Protection Rotation Title has the wrong format. <Protection Warrior Artifact: Netherlight Crucible, Traits, Relics> instead of <Protection Warrior Artifact Weapon: Scale of the Earth-Warder – Legion 7.3> 
+Prot doesn't show up 2 times on Protection Warrior Artifact Guide
+Prot doesn't show as often as it should on Protection Warrior Artifact Guide - Only 0 appearances in 6 aliases
+Warrior Protection Artifact Guide needs more expressions <protection warrior artifact>. Found 1 instead of 3 
+Warrior Protection Gear Title has the wrong format. <Protection Warrior Gear Recommendations> instead of <Protection Warrior Gear, Tier Sets & BiS  – Legion 7.3> 
+Prot doesn't show up 2 times on Protection Warrior Gear Guide
+Prot doesn't show as often as it should on Protection Warrior Gear Guide - Only 0 appearances in 13 aliases
+Warrior Protection Gear Guide needs more expressions <bis>. Found 2 instead of 3 
+Warrior Protection Gear Guide needs more expressions <tier sets>. Found 0 instead of 3 
+Warrior Protection Gear Guide needs more expressions <protection warrior gear>. Found 0 instead of 1 
+Warrior Protection Gear Guide needs more expressions <protection warrior tier sets>. Found 0 instead of 1 
+Warrior Protection Stat Guide wasn't found.
+Warrior Protection Enhancements Title has the wrong format. <Protection Warrior Gems, Enchants and Consumables> instead of <Protection Warrior Enchants, Gems & Enhancements – Legion 7.3> 
+Prot doesn't show up 2 times on Protection Warrior Enhancements Guide
+Prot doesn't show as often as it should on Protection Warrior Enhancements Guide - Only 0 appearances in 2 aliases
+Warrior Protection Enhancements Guide needs more expressions <protection warrior enchants>. Found 0 instead of 2 
+Warrior Protection Enhancements Guide needs more expressions <protection warrior gems>. Found 0 instead of 2 
+Warrior Protection Macro Title has the wrong format. <Protection Warrior Macros, Addons, and WeakAuras> instead of <Protection Warrior Macros & Addons – Legion 7.3> 
+Protection doesn't show up 2 times on Protection Warrior Macro Guide
+Prot doesn't show up 2 times on Protection Warrior Macro Guide
+Prot doesn't show as often as it should on Protection Warrior Macro Guide - Only 0 appearances in 1 aliases
+Warrior Protection Macro Guide needs more expressions <protection warrior macros priority>. Found 0 instead of 3 
 
