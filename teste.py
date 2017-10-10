@@ -10,7 +10,7 @@ validator = SEOValidator()
 results = 'Spec,Overview,Talents,Rotation,Artifact,Gear,Stat,Enhancements,Macros,Leveling\n'
 issues = []
 
-#title, content = validator.dataFetch('Blood', 'Death Knight', 'Guide')
+#title, content = validator.dataFetch('Hunter', 'Beast Mastery', 'guide')
 
 for combo in validator.classSpecCombos():
     res, iss = validator.seoAnalysis(combo[1],combo[0])
@@ -22,5 +22,6 @@ for combo in validator.classSpecCombos():
 
 with open('test.csv', 'w') as f:
     f.write('\n'.join((results, '\n'.join(issues))))
+    #f.write(title + '\n' + content)
 
 

@@ -1,7 +1,7 @@
 import urllib
 from bs4 import BeautifulSoup
 import urllib.request
-from urllib.request import Request, urlopen
+from urllib.request import Request, urlopen, urlcleanup
 from urllib.error import URLError
 import json
 
@@ -158,7 +158,7 @@ class SEOValidator:
         expectedTitle = '{0} {1} Artifact Weapon: {4} – {2} {3}'.format(charSpec, charClass, expansion, patch, artifact)
         
         if title != expectedTitle:
-            issues.append('{0} {1} Rotation Title has the wrong format. "<{2}>" instead of "<{3}>" '.format(charClass, charSpec, title, expectedTitle))
+            issues.append('{0} {1} Artifact Title has the wrong format. "<{2}>" instead of "<{3}>" '.format(charClass, charSpec, title, expectedTitle))
             
         # Checks the usage of aliases
         issues += self.aliasesEvaluation(charClass, charSpec, 'Artifact Guide', content)
@@ -375,7 +375,7 @@ class SEOValidator:
         termsCount = []
         for alias in aliases:
             lowAlias = alias.lower()
-            termsCount.append([alias, content.count(' {0} '.format(lowAlias))])                
+            termsCount.append([alias, content.count('{0} '.format(lowAlias))])                
         
         # Total sum of occurences
         termsSum = sum([x[1] for x in termsCount])
@@ -392,10 +392,10 @@ class SEOValidator:
                 ratio = ( 1.0 * dic[key] ) / termsSum
                 
                 # Gives a the ratio a lee way
-                precision = self.options['precision']
+                precision = self.options['precision']                
                 
                 # If ratio found is too far from the ratio expected
-                if ratio < ( 1 - precision ) * ( ( 1.0 * value ) / totalWeight ):
+                if ratio < ( 1 - precision ) * ( ( 1.0 * value ) / totalWeight ):                   
                     issues.append('{0} doesn\'t show as often as it should on {1} - Only {2} appearances in {3} aliases'.format(key, context, dic[key],termsSum) )
                     
         return issues
@@ -410,6 +410,7 @@ class SEOValidator:
         
         req = Request(url)
         try:
+            urlcleanup() 
             response = urlopen(req)
         except URLError as e:
             if hasattr(e, 'reason'):
@@ -454,12 +455,12 @@ class SEOValidator:
                     break
                     
             return title, content
+            #return title, '\n'.join(lines)
             
     def classSpecCombos(self):
         combos = []
         combos.append(['Blood', 'Death Knight'])
         combos.append(['Frost', 'Death Knight'])
-        #return combos
         combos.append(['Unholy', 'Death Knight'])        
         combos.append(['Havoc', 'Demon Hunter'])
         combos.append(['Vengeance', 'Demon Hunter'])
@@ -471,6 +472,7 @@ class SEOValidator:
         combos.append(['Marksmanship', 'Hunter'])
         combos.append(['Survival', 'Hunter'])
         combos.append(['Arcane', 'Mage'])
+        #return combos
         combos.append(['Fire', 'Mage'])
         combos.append(['Frost', 'Mage'])
         combos.append(['Brewmaster', 'Monk'])

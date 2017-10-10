@@ -63,7 +63,7 @@
            "Protection":1,
            "Prot":1}
                   },
-    "precision":0.1,
+    "precision":0.2,
     "guidesTypes":"guide,talent-guide,rotation-guide,artifact-guide,gear-guide,stat-guide,enhancements-guide,macro-guide",
     "otherGuide":"leveling-guide"
 }
