@@ -47,8 +47,8 @@
            "Restoration":1,
            "Resto":1},
         "Marksmanship":{
-           "Marksmanship":1,
-           "MM":2,
+           "Marksmanship":0,
+           "MM":1,
            "Marksman":3},
         "Beast Mastery":{
            "Beast Mastery":2,

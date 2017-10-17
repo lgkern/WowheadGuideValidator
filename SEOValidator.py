@@ -122,7 +122,7 @@ class SEOValidator:
         content = content.lower()
         
         # Checks if the Guide title is well formatted
-        expectedTitle = '{0} {1} Rotation – {2} {3}'.format(charSpec, charClass, expansion, patch)
+        expectedTitle = '{0} {1} Rotation Rotation – {2} {3}'.format(charSpec, charClass, expansion, patch)
         
         if title != expectedTitle:
             issues.append('{0} {1} Rotation Title has the wrong format. "<{2}>" instead of "<{3}>" '.format(charClass, charSpec, title, expectedTitle))
