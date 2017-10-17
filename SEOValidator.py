@@ -97,7 +97,7 @@ class SEOValidator:
         issues += self.aliasesEvaluation(charClass, charSpec, 'Talent Guide', content)
         
         # Checks if the body is using expressions as often as it should
-        guideFormat = '{0} {1} talents'
+        guideFormat = '{0} {1} talent'
         issues += self.expressionEvaluation(charClass, charSpec, content, guideFormat, 'Talent Guide', 2 )
         guideFormat = '{0} {1} build'
         issues += self.expressionEvaluation(charClass, charSpec, content, guideFormat, 'Talent Guide', 2 )
@@ -301,7 +301,7 @@ class SEOValidator:
         issues += self.aliasesEvaluation(charClass, charSpec, 'Macro Guide', content)
         
         # Checks if the body is using expressions as often as it should
-        guideFormat = '{0} {1} macros priority'
+        guideFormat = '{0} {1} macro'
         issues += self.expressionEvaluation(charClass, charSpec, content, guideFormat, 'Macro Guide', 3 )
             
         # Returns the amount of issues for the summary and the list of them for the detail
