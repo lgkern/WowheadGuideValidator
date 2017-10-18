@@ -1,8 +1,8 @@
-#Guide Validator
+# Guide Validator
 
 This script has been built in order to verify SEO aspects on different WoW Class Guides, following SEO recommendations about the classes and specializations and guides themselves.
 
-#Workflow
+## Workflow
 
 The script follows a simple workflow:
 
@@ -15,7 +15,7 @@ The script follows a simple workflow:
   - Each guide type (`Talents`, `Macros`, `Stats`) was recommended to have different expressions shown in their bodies. For instance, Talent guides should have `<Specialization> <Class> Talents` and `<Specialization> <Class> Builds` show up at least twice each in their bodies. Those searches 
 * Builds a table showing the amount of issues on each guide for each specialization/class and list the issues below
 
-#Functions
+## Functions
     
 In order to execute the workflow, there are _ main working functions:
 * `dataFetch` that takes Class, Specialization and Guide type, builds the URL for that guide, extracts and returns the title and content from the HTML page.
