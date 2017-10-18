@@ -12,7 +12,7 @@ The script follows a simple workflow:
 * Verifies if the guide uses the proper amount of aliases as it should for each class and specialization. 
   - For instance, when searching for Death Knights, people predominantly use `DK` instead of `Death Knight`, so it was stipulated that the expression `DK` should appear three times more often than `Death Knight` on guides about that class.
 * Verifies if the guide is using the correct amount of expressions as it should.
-  - Each guide type (`Talents`, `Macros`, `Stats`) was recommended to have different expressions shown in their bodies. For instance, Talent guides should have `<Specialization> <Class> Talents` and `<Specialization> <Class> Builds` show up at least twice each in their bodies. Those searches 
+  - Each guide type (`Talents`, `Macros`, `Stats`) was recommended to have different expressions shown in their bodies. For instance, Talent guides should have `<Specialization> <Class> Talents` and `<Specialization> <Class> Builds` show up at least twice each in their bodies. 
 * Builds a table showing the amount of issues on each guide for each specialization/class and list the issues below
 
 ## Functions
