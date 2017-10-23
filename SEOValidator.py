@@ -197,7 +197,7 @@ class SEOValidator:
         # Checks if the body is using expressions as often as it should
         guideFormat = 'bis'
         issues += self.expressionEvaluation(charClass, charSpec, content, guideFormat, 'Gear Guide', 3 )
-        guideFormat = 'tier sets'
+        guideFormat = 'tier set'
         issues += self.expressionEvaluation(charClass, charSpec, content, guideFormat, 'Gear Guide', 3 )
         guideFormat = 'armor'
         issues += self.expressionEvaluation(charClass, charSpec, content, guideFormat, 'Gear Guide', 3 )
@@ -206,20 +206,20 @@ class SEOValidator:
         
         guideFormat = '{0} {1} gear'
         issues += self.expressionEvaluation(charClass, charSpec, content, guideFormat, 'Gear Guide', 1 )
-        guideFormat = '{0} {1} tier sets'
+        guideFormat = '{0} {1} tier set'
         issues += self.expressionEvaluation(charClass, charSpec, content, guideFormat, 'Gear Guide', 1 )
             
         # Returns the amount of issues for the summary and the list of them for the detail
         return str(len(issues)), issues
         
-    def seoGuideAnalysis_stat_guide(self, charClass, charSpec):
+    def seoGuideAnalysis_stat_priority_guide(self, charClass, charSpec):
         expansion = self.options['expansion']
         patch = self.options['patch']
         
         issues = []
         
         # Fetch the guide from Wowhead
-        title, content = self.dataFetch(charClass, charSpec, 'Stat Guide')
+        title, content = self.dataFetch(charClass, charSpec, 'Stat Priority Guide')
         
         # Verifies if it was found
         if title is None:
