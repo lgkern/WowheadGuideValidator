@@ -36,7 +36,7 @@ class SEOValidator:
         for guide in guides:
             analysis = getattr(self, 'seoGuideAnalysis_' + guide.replace('-','_') )
             res, iss = analysis(charClass, charSpec)
-            result += res + ','
+            result += res + '\t'
             issues += iss
         
         return result, issues
@@ -59,7 +59,7 @@ class SEOValidator:
         # Checks if the Guide title is well formatted
         expectedTitle = '{0} {1} Guide – {2} {3}'.format(charSpec, charClass, expansion, patch)
         
-        if title != expectedTitle:
+        if title != expectedTitle and title != expectedTitle2:
             issues.append('{0} {1} Overview Title has the wrong format. "<{2}>" instead of "<{3}>" '.format(charClass, charSpec, title, expectedTitle))
             
         # Checks the usage of aliases
@@ -89,8 +89,9 @@ class SEOValidator:
         
         # Checks if the Guide title is well formatted
         expectedTitle = '{0} {1} Talents & Build Guide – {2} {3}'.format(charSpec, charClass, expansion, patch)
+        expectedTitle2 = '{0} {1} Talents & Build Guide -{2} {3}'.format(charSpec, charClass, expansion, patch)
         
-        if title != expectedTitle:
+        if title != expectedTitle and title != expectedTitle2:
             issues.append('{0} {1} Talent Title has the wrong format. "<{2}>" instead of "<{3}>" '.format(charClass, charSpec, title, expectedTitle))
             
         # Checks the usage of aliases
@@ -123,8 +124,9 @@ class SEOValidator:
         
         # Checks if the Guide title is well formatted
         expectedTitle = '{0} {1} Rotation Guide – {2} {3}'.format(charSpec, charClass, expansion, patch)
+        expectedTitle2 = '{0} {1} Rotation Guide - {2} {3}'.format(charSpec, charClass, expansion, patch)
         
-        if title != expectedTitle:
+        if title != expectedTitle and title != expectedTitle2:
             issues.append('{0} {1} Rotation Title has the wrong format. "<{2}>" instead of "<{3}>" '.format(charClass, charSpec, title, expectedTitle))
             
         # Checks the usage of aliases
@@ -156,8 +158,9 @@ class SEOValidator:
         
         # Checks if the Guide title is well formatted
         expectedTitle = '{0} {1} Artifact Weapon: {4} – {2} {3}'.format(charSpec, charClass, expansion, patch, artifact)
+        expectedTitle2 = '{0} {1} Artifact Weapon: {4} - {2} {3}'.format(charSpec, charClass, expansion, patch, artifact)
         
-        if title != expectedTitle:
+        if title != expectedTitle and title != expectedTitle2:
             issues.append('{0} {1} Artifact Title has the wrong format. "<{2}>" instead of "<{3}>" '.format(charClass, charSpec, title, expectedTitle))
             
         # Checks the usage of aliases
@@ -187,8 +190,9 @@ class SEOValidator:
         
         # Checks if the Guide title is well formatted
         expectedTitle = '{0} {1} Gear, Tier Sets & BiS – {2} {3}'.format(charSpec, charClass, expansion, patch)
+        expectedTitle2 = '{0} {1} Gear, Tier Sets & BiS - {2} {3}'.format(charSpec, charClass, expansion, patch)
         
-        if title != expectedTitle:
+        if title != expectedTitle and title != expectedTitle2:
             issues.append('{0} {1} Gear Title has the wrong format. "<{2}>" instead of "<{3}>" '.format(charClass, charSpec, title, expectedTitle))
             
         # Checks the usage of aliases
@@ -229,8 +233,9 @@ class SEOValidator:
         
         # Checks if the Guide title is well formatted
         expectedTitle = '{0} {1} Stat Priority – {2} {3}'.format(charSpec, charClass, expansion, patch)
+        expectedTitle2 = '{0} {1} Stat Priority - {2} {3}'.format(charSpec, charClass, expansion, patch)
         
-        if title != expectedTitle:
+        if title != expectedTitle and title != expectedTitle2:
             issues.append('{0} {1} Stat Title has the wrong format. "<{2}>" instead of "<{3}>" '.format(charClass, charSpec, title, expectedTitle))
             
         # Checks the usage of aliases
@@ -260,8 +265,9 @@ class SEOValidator:
         
         # Checks if the Guide title is well formatted
         expectedTitle = '{0} {1} Enchants, Gems & Enhancements – {2} {3}'.format(charSpec, charClass, expansion, patch)
+        expectedTitle2 = '{0} {1} Enchants, Gems & Enhancements - {2} {3}'.format(charSpec, charClass, expansion, patch)
         
-        if title != expectedTitle:
+        if title != expectedTitle and title != expectedTitle2:
             issues.append('{0} {1} Enhancements Title has the wrong format. "<{2}>" instead of "<{3}>" '.format(charClass, charSpec, title, expectedTitle))
             
         # Checks the usage of aliases
@@ -293,8 +299,9 @@ class SEOValidator:
         
         # Checks if the Guide title is well formatted
         expectedTitle = '{0} {1} Macros & Addons – {2} {3}'.format(charSpec, charClass, expansion, patch)
+        expectedTitle2 = '{0} {1} Macros & Addons - {2} {3}'.format(charSpec, charClass, expansion, patch)
         
-        if title != expectedTitle:
+        if title != expectedTitle and title != expectedTitle2:
             issues.append('{0} {1} Macro Title has the wrong format. "<{2}>" instead of "<{3}>" '.format(charClass, charSpec, title, expectedTitle))
             
         # Checks the usage of aliases

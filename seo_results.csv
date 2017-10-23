@@ -1,37 +1,37 @@
 Spec,Overview,Talents,Rotation,Artifact,Gear,Stat,Enhancements,Macros,Leveling
 Death Knight Blood,0,0,0,0,1,1,1,1,
 Death Knight Frost,0,1,0,1,1,1,0,1,
-Death Knight Unholy,0,1,0,0,1,3,1,1,
-Demon Hunter Havoc,0,0,0,0,1,1,0,x,
-Demon Hunter Vengeance,0,0,0,0,0,1,0,x,
-Druid Balance,0,0,0,0,1,1,0,0,
-Druid Guardian,0,0,0,0,2,1,0,1,
-Druid Feral,0,0,0,0,0,2,0,1,
-Druid Restoration,0,0,0,1,2,2,1,3,
-Hunter Beast Mastery,0,0,1,2,0,3,0,3,
-Hunter Marksmanship,0,3,1,1,1,5,1,5,
-Hunter Survival,0,0,0,0,1,1,0,1,
-Mage Arcane,0,0,0,0,0,2,0,1,
-Mage Fire,0,0,0,0,1,1,0,1,
-Mage Frost,0,0,0,0,2,1,0,1,
-Monk Brewmaster,0,0,0,1,2,1,0,1,
-Monk Mistweaver,0,0,0,0,2,1,0,1,
-Monk Windwalker,0,0,0,0,2,2,0,1,
-Paladin Holy,0,0,1,0,2,1,0,1,
-Paladin Protection,0,2,0,1,2,3,1,3,
-Paladin Retribution,0,0,1,0,3,3,1,4,
+Death Knight Unholy,0,1,0,0,1,2,1,1,
+Demon Hunter Havoc,0,0,0,0,1,0,0,x,
+Demon Hunter Vengeance,0,0,0,0,0,0,0,x,
+Druid Balance,0,0,0,0,1,0,0,x,
+Druid Guardian,0,0,0,0,2,0,0,1,
+Druid Feral,0,0,0,0,0,1,0,1,
+Druid Restoration,0,0,0,1,2,1,1,3,
+Hunter Beast Mastery,0,0,1,2,0,2,0,3,
+Hunter Marksmanship,0,3,1,1,1,4,1,5,
+Hunter Survival,0,0,0,0,1,0,0,1,
+Mage Arcane,0,0,0,0,0,1,0,1,
+Mage Fire,0,0,0,0,1,0,0,1,
+Mage Frost,0,0,0,0,2,0,0,1,
+Monk Brewmaster,0,0,0,1,2,0,0,1,
+Monk Mistweaver,0,0,0,0,2,0,0,1,
+Monk Windwalker,0,0,0,0,2,1,0,1,
+Paladin Holy,0,0,1,0,2,0,0,1,
+Paladin Protection,0,2,0,1,2,2,1,3,
+Paladin Retribution,0,0,1,0,3,2,1,4,
 Priest Discipline,0,0,0,1,0,3,1,3,
 Priest Holy,0,0,0,0,1,1,0,1,
-Priest Shadow,0,0,0,0,1,1,0,1,
-Rogue Assassination,0,0,0,0,2,2,0,1,
-Rogue Outlaw,0,0,0,0,2,1,0,1,
+Priest Shadow,0,0,0,0,1,0,0,1,
+Rogue Assassination,0,0,0,0,2,1,0,1,
+Rogue Outlaw,0,0,0,0,2,0,0,1,
 Rogue Subtlety,0,0,0,0,2,1,1,1,
-Shaman Elemental,0,0,0,0,2,1,0,1,
-Shaman Enhancement,0,0,1,0,2,2,1,1,
+Shaman Elemental,0,0,0,0,2,0,0,1,
+Shaman Enhancement,0,0,1,0,2,1,1,1,
 Shaman Restoration,0,0,0,0,2,3,1,3,
 Warlock Affliction,0,0,0,1,1,0,0,1,
-Warlock Destruction,0,0,0,0,2,1,0,1,
-Warlock Demonology,0,0,0,0,2,1,0,1,
+Warlock Destruction,0,0,0,0,2,0,0,1,
+Warlock Demonology,0,0,0,0,2,0,0,1,
 Warrior Arms,0,0,0,1,0,1,1,1,
 Warrior Fury,0,0,0,0,0,0,0,1,
 Warrior Protection,0,0,0,1,1,3,1,4,
@@ -51,7 +51,6 @@ Death Knight doesn't show up 2 times on Frost Death Knight Macro Guide
 
 DK doesn't show as often as it should on Unholy Death Knight Talent Guide - Only 4 appearances in 7 aliases
 DK doesn't show as often as it should on Unholy Death Knight Gear Guide - Only 4 appearances in 9 aliases
-Death Knight Unholy Stat Title has the wrong format. "<Unholy Death Knight Stat Priority - Legion 7.3>" instead of "<Unholy Death Knight Stat Priority – Legion 7.3>" 
 DK doesn't show up 2 times on Unholy Death Knight Stat Guide
 DK doesn't show as often as it should on Unholy Death Knight Stat Guide - Only 0 appearances in 10 aliases
 DK doesn't show as often as it should on Unholy Death Knight Enhancements Guide - Only 5 appearances in 13 aliases
@@ -59,25 +58,21 @@ DK doesn't show as often as it should on Unholy Death Knight Macro Guide - Only 
 
 
 Demon Hunter Havoc Gear Guide needs more expressions <bis>. Found 2 instead of 3 
-Demon Hunter Havoc Stat Title has the wrong format. "<Havoc Demon Hunter Stat Priority - Legion 7.3>" instead of "<Havoc Demon Hunter Stat Priority – Legion 7.3>" 
 Demon Hunter Havoc Macro Guide wasn't found.
 
 
-Demon Hunter Vengeance Stat Title has the wrong format. "<Vengeance Demon Hunter Stat Priority - Legion 7.3>" instead of "<Vengeance Demon Hunter Stat Priority – Legion 7.3>" 
 Demon Hunter Vengeance Macro Guide wasn't found.
 
 
 Druid Balance Gear Guide needs more expressions <tier set>. Found 2 instead of 3 
-Druid Balance Stat Title has the wrong format. "<Balance Druid Stat Priority - Legion 7.3>" instead of "<Balance Druid Stat Priority – Legion 7.3>" 
+Druid Balance Macro Guide wasn't found.
 
 
 Druid Guardian Gear Guide needs more expressions <bis>. Found 2 instead of 3 
 Druid Guardian Gear Guide needs more expressions <tier set>. Found 2 instead of 3 
-Druid Guardian Stat Title has the wrong format. "<Guardian Druid Stat Priority - Legion 7.3>" instead of "<Guardian Druid Stat Priority – Legion 7.3>" 
 Druid Guardian Macro Guide needs more expressions <guardian druid macro>. Found 0 instead of 3 
 
 
-Druid Feral Stat Title has the wrong format. "<Feral Druid Stat Priority - Legion 7.3>" instead of "<Feral Druid Stat Priority – Legion 7.3>" 
 Druid Feral Stat Guide needs more expressions <feral druid stat priority>. Found 2 instead of 3 
 Druid Feral Macro Guide needs more expressions <feral druid macro>. Found 0 instead of 3 
 
@@ -85,7 +80,6 @@ Druid Feral Macro Guide needs more expressions <feral druid macro>. Found 0 inst
 Druid Restoration Artifact Title has the wrong format. "<Restoration Druid Artifact Weapon: G'Hanir the Mother Tree – Legion 7.3>" instead of "<Restoration Druid Artifact Weapon: G'Hanir, the Mother Tree – Legion 7.3>" 
 Resto doesn't show as often as it should on Restoration Druid Gear Guide - Only 10 appearances in 30 aliases
 Druid Restoration Gear Guide needs more expressions <bis>. Found 2 instead of 3 
-Druid Restoration Stat Title has the wrong format. "<Restoration Druid Stat Priority - Legion 7.3>" instead of "<Restoration Druid Stat Priority – Legion 7.3>" 
 Resto doesn't show as often as it should on Restoration Druid Stat Guide - Only 3 appearances in 13 aliases
 Resto doesn't show as often as it should on Restoration Druid Enhancements Guide - Only 2 appearances in 8 aliases
 Resto doesn't show up 2 times on Restoration Druid Macro Guide
@@ -96,7 +90,6 @@ Druid Restoration Macro Guide needs more expressions <restoration druid macro>. 
 BM doesn't show up 2 times on Beast Mastery Hunter Rotation Guide
 Beast Mastery doesn't show up 2 times on Beast Mastery Hunter Artifact Guide
 Beast Mastery doesn't show as often as it should on Beast Mastery Hunter Artifact Guide - Only 1 appearances in 6 aliases
-Hunter Beast Mastery Stat Title has the wrong format. "<Beast Mastery Hunter Stat Priority - Legion 7.3>" instead of "<Beast Mastery Hunter Stat Priority – Legion 7.3>" 
 BM doesn't show up 2 times on Beast Mastery Hunter Stat Guide
 Hunter Beast Mastery Stat Guide needs more expressions <beast mastery hunter stat priority>. Found 1 instead of 3 
 Beast Mastery doesn't show up 2 times on Beast Mastery Hunter Macro Guide
@@ -110,56 +103,48 @@ Marksman doesn't show as often as it should on Marksmanship Hunter Talent Guide 
 Marksmanship doesn't show up 2 times on Marksmanship Hunter Rotation Guide
 Marksman doesn't show as often as it should on Marksmanship Hunter Artifact Guide - Only 5 appearances in 9 aliases
 Marksman doesn't show as often as it should on Marksmanship Hunter Gear Guide - Only 3 appearances in 8 aliases
-Hunter Marksmanship Stat Title has the wrong format. "<Marksmanship Hunter Stat Priority - Legion 7.3>" instead of "<Marksmanship Hunter Stat Priority – Legion 7.3>" 
 MM doesn't show up 2 times on Marksmanship Hunter Stat Guide
 Marksman doesn't show up 2 times on Marksmanship Hunter Stat Guide
 Marksman doesn't show as often as it should on Marksmanship Hunter Stat Guide - Only 0 appearances in 8 aliases
-Hunter Marksmanship Stat Guide needs more expressions <marksmanship hunter stat priority>. Found 2 instead of 3 
+Hunter Marksmanship Stat Guide needs more expressions <mm hunter stat priority>. Found 2 instead of 3 
 Marksman doesn't show as often as it should on Marksmanship Hunter Enhancements Guide - Only 4 appearances in 11 aliases
-Marksmanship doesn't show up 2 times on Marksmanship Hunter Macro Guide
 MM doesn't show up 2 times on Marksmanship Hunter Macro Guide
+Marksmanship doesn't show up 2 times on Marksmanship Hunter Macro Guide
 Marksman doesn't show up 2 times on Marksmanship Hunter Macro Guide
 Marksman doesn't show as often as it should on Marksmanship Hunter Macro Guide - Only 0 appearances in 5 aliases
-Hunter Marksmanship Macro Guide needs more expressions <marksmanship hunter macro>. Found 0 instead of 3 
+Hunter Marksmanship Macro Guide needs more expressions <mm hunter macro>. Found 0 instead of 3 
 
 
 Hunter Survival Gear Guide needs more expressions <bis>. Found 2 instead of 3 
-Hunter Survival Stat Title has the wrong format. "<Survival Hunter Stat Priority - Legion 7.3>" instead of "<Survival Hunter Stat Priority – Legion 7.3>" 
 Hunter Survival Macro Guide needs more expressions <survival hunter macro>. Found 0 instead of 3 
 
 
-Mage Arcane Stat Title has the wrong format. "<Arcane Mage Stat Priority - Legion 7.3>" instead of "<Arcane Mage Stat Priority – Legion 7.3>" 
 Mage Arcane Stat Guide needs more expressions <arcane mage stat priority>. Found 2 instead of 3 
 Mage Arcane Macro Guide needs more expressions <arcane mage macro>. Found 0 instead of 3 
 
 
 Mage Fire Gear Guide needs more expressions <bis>. Found 2 instead of 3 
-Mage Fire Stat Title has the wrong format. "<Fire Mage Stat Priority - Legion 7.3>" instead of "<Fire Mage Stat Priority – Legion 7.3>" 
 Mage Fire Macro Guide needs more expressions <fire mage macro>. Found 0 instead of 3 
 
 
 Mage Frost Gear Guide needs more expressions <bis>. Found 2 instead of 3 
 Mage Frost Gear Guide needs more expressions <tier set>. Found 2 instead of 3 
-Mage Frost Stat Title has the wrong format. "<Frost Mage Stat Priority - Legion 7.3>" instead of "<Frost Mage Stat Priority – Legion 7.3>" 
 Mage Frost Macro Guide needs more expressions <frost mage macro>. Found 0 instead of 3 
 
 
 Monk Brewmaster Artifact Guide needs more expressions <brewmaster monk artifact>. Found 2 instead of 3 
 Monk Brewmaster Gear Guide needs more expressions <bis>. Found 1 instead of 3 
 Monk Brewmaster Gear Guide needs more expressions <tier set>. Found 2 instead of 3 
-Monk Brewmaster Stat Title has the wrong format. "<Brewmaster Monk Stat Priority - Legion 7.3>" instead of "<Brewmaster Monk Stat Priority – Legion 7.3>" 
 Monk Brewmaster Macro Guide needs more expressions <brewmaster monk macro>. Found 0 instead of 3 
 
 
 Monk Mistweaver Gear Guide needs more expressions <bis>. Found 1 instead of 3 
 Monk Mistweaver Gear Guide needs more expressions <tier set>. Found 2 instead of 3 
-Monk Mistweaver Stat Title has the wrong format. "<Mistweaver Monk Stat Priority - Legion 7.3>" instead of "<Mistweaver Monk Stat Priority – Legion 7.3>" 
 Monk Mistweaver Macro Guide needs more expressions <mistweaver monk macro>. Found 0 instead of 3 
 
 
 Monk Windwalker Gear Guide needs more expressions <bis>. Found 2 instead of 3 
 Monk Windwalker Gear Guide needs more expressions <tier set>. Found 2 instead of 3 
-Monk Windwalker Stat Title has the wrong format. "<Windwalker Monk Stat Priority - Legion 7.3>" instead of "<Windwalker Monk Stat Priority – Legion 7.3>" 
 Monk Windwalker Stat Guide needs more expressions <windwalker monk stat priority>. Found 1 instead of 3 
 Monk Windwalker Macro Guide needs more expressions <windwalker monk macro>. Found 0 instead of 3 
 
@@ -167,7 +152,6 @@ Monk Windwalker Macro Guide needs more expressions <windwalker monk macro>. Foun
 Paladin Holy Rotation Title has the wrong format. "<Holy Paladin Rotation Guide– Legion 7.3>" instead of "<Holy Paladin Rotation Guide – Legion 7.3>" 
 Paladin Holy Gear Guide needs more expressions <bis>. Found 1 instead of 3 
 Paladin Holy Gear Guide needs more expressions <tier set>. Found 2 instead of 3 
-Paladin Holy Stat Title has the wrong format. "<Holy Paladin Stat Priority - Legion 7.3>" instead of "<Holy Paladin Stat Priority – Legion 7.3>" 
 Paladin Holy Macro Guide needs more expressions <holy paladin macro>. Found 0 instead of 3 
 
 
@@ -176,27 +160,25 @@ Prot doesn't show as often as it should on Protection Paladin Talent Guide - Onl
 Protection doesn't show as often as it should on Protection Paladin Artifact Guide - Only 2 appearances in 8 aliases
 Prot doesn't show up 2 times on Protection Paladin Gear Guide
 Prot doesn't show as often as it should on Protection Paladin Gear Guide - Only 0 appearances in 3 aliases
-Paladin Protection Stat Title has the wrong format. "<Protection Paladin Stat Priority - Legion 7.3>" instead of "<Protection Paladin Stat Priority – Legion 7.3>" 
 Prot doesn't show up 2 times on Protection Paladin Stat Guide
 Prot doesn't show as often as it should on Protection Paladin Stat Guide - Only 0 appearances in 6 aliases
 Prot doesn't show as often as it should on Protection Paladin Enhancements Guide - Only 2 appearances in 6 aliases
 Prot doesn't show up 2 times on Protection Paladin Macro Guide
 Prot doesn't show as often as it should on Protection Paladin Macro Guide - Only 0 appearances in 2 aliases
-Paladin Protection Macro Guide needs more expressions <protection paladin macro>. Found 0 instead of 3 
+Paladin Protection Macro Guide needs more expressions <prot paladin macro>. Found 0 instead of 3 
 
 
 Ret doesn't show as often as it should on Retribution Paladin Rotation Guide - Only 3 appearances in 7 aliases
 Ret doesn't show up 2 times on Retribution Paladin Gear Guide
 Ret doesn't show as often as it should on Retribution Paladin Gear Guide - Only 0 appearances in 5 aliases
 Paladin Retribution Gear Guide needs more expressions <bis>. Found 2 instead of 3 
-Paladin Retribution Stat Title has the wrong format. "<Retribution Paladin Stat Priority - Legion 7.3>" instead of "<Retribution Paladin Stat Priority – Legion 7.3>" 
 Ret doesn't show up 2 times on Retribution Paladin Stat Guide
 Ret doesn't show as often as it should on Retribution Paladin Stat Guide - Only 0 appearances in 10 aliases
 Retribution doesn't show up 2 times on Retribution Paladin Enhancements Guide
-Retribution doesn't show up 2 times on Retribution Paladin Macro Guide
 Ret doesn't show up 2 times on Retribution Paladin Macro Guide
 Ret doesn't show as often as it should on Retribution Paladin Macro Guide - Only 0 appearances in 6 aliases
-Paladin Retribution Macro Guide needs more expressions <retribution paladin macro>. Found 1 instead of 3 
+Retribution doesn't show up 2 times on Retribution Paladin Macro Guide
+Paladin Retribution Macro Guide needs more expressions <ret paladin macro>. Found 1 instead of 3 
 
 
 Priest Discipline Artifact Guide needs more expressions <discipline priest artifact>. Found 2 instead of 3 
@@ -215,20 +197,17 @@ Priest Holy Macro Guide needs more expressions <holy priest macro>. Found 0 inst
 
 
 Priest Shadow Gear Guide needs more expressions <tier set>. Found 2 instead of 3 
-Priest Shadow Stat Title has the wrong format. "<Shadow Priest Stat Priority - Legion 7.3>" instead of "<Shadow Priest Stat Priority – Legion 7.3>" 
 Priest Shadow Macro Guide needs more expressions <shadow priest macro>. Found 0 instead of 3 
 
 
 Rogue Assassination Gear Guide needs more expressions <bis>. Found 1 instead of 3 
 Rogue Assassination Gear Guide needs more expressions <tier set>. Found 2 instead of 3 
-Rogue Assassination Stat Title has the wrong format. "<Assassination Rogue Stat Priority - Legion 7.3>" instead of "<Assassination Rogue Stat Priority – Legion 7.3>" 
 Rogue Assassination Stat Guide needs more expressions <assassination rogue stat priority>. Found 2 instead of 3 
 Rogue Assassination Macro Guide needs more expressions <assassination rogue macro>. Found 0 instead of 3 
 
 
 Rogue Outlaw Gear Guide needs more expressions <bis>. Found 1 instead of 3 
 Rogue Outlaw Gear Guide needs more expressions <tier set>. Found 2 instead of 3 
-Rogue Outlaw Stat Title has the wrong format. "<Outlaw Rogue Stat Priority - Legion 7.3>" instead of "<Outlaw Rogue Stat Priority – Legion 7.3>" 
 Rogue Outlaw Macro Guide needs more expressions <outlaw rogue macro>. Found 0 instead of 3 
 
 
@@ -241,14 +220,12 @@ Rogue Subtlety Macro Guide needs more expressions <subtlety rogue macro>. Found 
 
 Shaman Elemental Gear Guide needs more expressions <bis>. Found 1 instead of 3 
 Shaman Elemental Gear Guide needs more expressions <tier set>. Found 2 instead of 3 
-Shaman Elemental Stat Title has the wrong format. "<Elemental Shaman Stat Priority - Legion 7.3>" instead of "<Elemental Shaman Stat Priority – Legion 7.3>" 
 Shaman Elemental Macro Guide needs more expressions <elemental shaman macro>. Found 0 instead of 3 
 
 
 Shaman Enhancement Rotation Title has the wrong format. "<Enhancement Shaman Rotation and Priorities>" instead of "<Enhancement Shaman Rotation Guide – Legion 7.3>" 
 Shaman Enhancement Gear Guide needs more expressions <bis>. Found 1 instead of 3 
 Shaman Enhancement Gear Guide needs more expressions <tier set>. Found 2 instead of 3 
-Shaman Enhancement Stat Title has the wrong format. "<Enhancement Shaman Stat Priority - Legion 7.3>" instead of "<Enhancement Shaman Stat Priority – Legion 7.3>" 
 Shaman Enhancement Stat Guide needs more expressions <enhancement shaman stat priority>. Found 2 instead of 3 
 Shaman Enhancement Enhancements Guide needs more expressions <enhancement shaman enchants>. Found 1 instead of 2 
 Shaman Enhancement Macro Guide needs more expressions <enhancement shaman macro>. Found 0 instead of 3 
@@ -272,13 +249,11 @@ Warlock Affliction Macro Guide needs more expressions <affliction warlock macro>
 
 Warlock Destruction Gear Guide needs more expressions <bis>. Found 1 instead of 3 
 Warlock Destruction Gear Guide needs more expressions <tier set>. Found 2 instead of 3 
-Warlock Destruction Stat Title has the wrong format. "<Destruction Warlock Stat Priority - Legion 7.3>" instead of "<Destruction Warlock Stat Priority – Legion 7.3>" 
 Warlock Destruction Macro Guide needs more expressions <destruction warlock macro>. Found 0 instead of 3 
 
 
 Warlock Demonology Gear Guide needs more expressions <bis>. Found 1 instead of 3 
 Warlock Demonology Gear Guide needs more expressions <tier set>. Found 2 instead of 3 
-Warlock Demonology Stat Title has the wrong format. "<Demonology Warlock Stat Priority - Legion 7.3>" instead of "<Demonology Warlock Stat Priority – Legion 7.3>" 
 Warlock Demonology Macro Guide needs more expressions <demonology warlock macro>. Found 0 instead of 3 
 
 
@@ -291,14 +266,14 @@ Warrior Arms Macro Guide needs more expressions <arms warrior macro>. Found 0 in
 Warrior Fury Macro Guide needs more expressions <fury warrior macro>. Found 0 instead of 3 
 
 
-Warrior Protection Artifact Guide needs more expressions <protection warrior artifact>. Found 2 instead of 3 
+Warrior Protection Artifact Guide needs more expressions <prot warrior artifact>. Found 2 instead of 3 
 Prot doesn't show as often as it should on Protection Warrior Gear Guide - Only 2 appearances in 19 aliases
 Prot doesn't show up 2 times on Protection Warrior Stat Guide
 Prot doesn't show as often as it should on Protection Warrior Stat Guide - Only 0 appearances in 8 aliases
-Warrior Protection Stat Guide needs more expressions <protection warrior stat priority>. Found 2 instead of 3 
+Warrior Protection Stat Guide needs more expressions <prot warrior stat priority>. Found 2 instead of 3 
 Prot doesn't show as often as it should on Protection Warrior Enhancements Guide - Only 2 appearances in 7 aliases
-Protection doesn't show up 2 times on Protection Warrior Macro Guide
 Prot doesn't show up 2 times on Protection Warrior Macro Guide
 Prot doesn't show as often as it should on Protection Warrior Macro Guide - Only 0 appearances in 1 aliases
-Warrior Protection Macro Guide needs more expressions <protection warrior macro>. Found 0 instead of 3 
+Protection doesn't show up 2 times on Protection Warrior Macro Guide
+Warrior Protection Macro Guide needs more expressions <prot warrior macro>. Found 0 instead of 3 
 
